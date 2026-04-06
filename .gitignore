@@ -1,0 +1,10 @@
+.DS_Store
+*.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+.env
+scan_ips.txt
+naabu_raw.txt
+naabu_verified.txt
+domains.txt

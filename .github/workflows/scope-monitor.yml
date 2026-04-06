@@ -1,0 +1,108 @@
+name: RedBull Recon Monitor
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      actions: write
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - uses: actions/setup-go@v5
+        with:
+          go-version: '1.22'
+          cache: false
+
+      - name: Cache Go binaries
+        id: cache-bins
+        uses: actions/cache@v4
+        with:
+          path: ~/go/bin
+          key: go-bins-${{ runner.os }}-redbull-v1
+
+      - name: Install httpx
+        if: steps.cache-bins.outputs.cache-hit != 'true'
+        run: |
+          go install -v github.com/projectdiscovery/httpx/cmd/httpx@latest
+
+      - name: Add Go bin to PATH
+        run: echo "$HOME/go/bin" >> $GITHUB_PATH
+
+      - name: Cache pip
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: pip-${{ runner.os }}-requests-v1
+
+      - name: Install Python deps
+        run: pip install requests
+
+      - name: Run monitor
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          CHAT_ID: ${{ secrets.CHAT_ID }}
+        run: python monitor.py
+
+      - name: Commit state files
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          touch scope_state.txt new_host.txt pending_assets.txt fuzz_targets.txt
+          git add scope_state.txt new_host.txt pending_assets.txt fuzz_targets.txt
+          git add initial_scan_done.flag 2>/dev/null || true
+          git commit -m "Update RedBull scope state [$(date -u +%Y-%m-%dT%H:%M)]" || true
+          git pull --rebase origin main || true
+          git push || true
+
+      - name: Trigger scans if new assets found
+        run: |
+          if [ -f new_host.txt ] && [ -s new_host.txt ]; then
+            echo "New assets found — creating lock and triggering scans"
+
+            echo "${{ github.run_id }}" > scan_lock.txt
+            git add scan_lock.txt
+            git commit -m "Create scan lock"
+            git pull --rebase origin main || true
+            git push
+
+            curl -s -X POST \
+              -H "Authorization: Bearer ${{ secrets.PAT_TOKEN }}" \
+              -H "Accept: application/vnd.github.v3+json" \
+              "https://api.github.com/repos/${{ github.repository }}/actions/workflows/nuclei-scan.yml/dispatches" \
+              -d '{"ref":"main","inputs":{"targets_file":"new_host.txt","severity":"low,medium,high,critical","chunk_size":"100"}}'
+
+            curl -s -X POST \
+              -H "Authorization: Bearer ${{ secrets.PAT_TOKEN }}" \
+              -H "Accept: application/vnd.github.v3+json" \
+              "https://api.github.com/repos/${{ github.repository }}/actions/workflows/naabu-scan.yml/dispatches" \
+              -d '{"ref":"main","inputs":{"ips_file":"new_host.txt"}}'
+
+            if [ -f fuzz_targets.txt ] && [ -s fuzz_targets.txt ]; then
+              curl -s -X POST \
+                -H "Authorization: Bearer ${{ secrets.PAT_TOKEN }}" \
+                -H "Accept: application/vnd.github.v3+json" \
+                "https://api.github.com/repos/${{ github.repository }}/actions/workflows/fuzz-scan.yml/dispatches" \
+                -d '{"ref":"main","inputs":{"targets_file":"fuzz_targets.txt"}}'
+              echo "✅ Fuzz scan triggered"
+            fi
+
+            echo "✅ Nuclei + Naabu triggered"
+          else
+            echo "No new assets — skipping scan trigger"
+          fi

@@ -1,0 +1,242 @@
+name: Nuclei Scanner
+
+on:
+  workflow_dispatch:
+    inputs:
+      targets_file:
+        description: 'Targets file'
+        required: false
+        default: 'new_host.txt'
+      severity:
+        description: 'Severity levels'
+        required: false
+        default: 'low,medium,high,critical'
+      chunk_size:
+        description: 'Targets per job'
+        required: false
+        default: '100'
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+jobs:
+  prepare:
+    runs-on: ubuntu-latest
+    outputs:
+      matrix: ${{ steps.split.outputs.matrix }}
+      total: ${{ steps.split.outputs.total }}
+      target_count: ${{ steps.split.outputs.target_count }}
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Split targets into chunks
+        id: split
+        run: |
+          TARGETS_FILE="${{ github.event.inputs.targets_file }}"
+          CHUNK_SIZE="${{ github.event.inputs.chunk_size }}"
+
+          if [ ! -f "$TARGETS_FILE" ]; then
+            echo "❌ $TARGETS_FILE not found"
+            echo 'matrix={"chunk":["empty"]}' >> $GITHUB_OUTPUT
+            echo "total=0" >> $GITHUB_OUTPUT
+            echo "target_count=0" >> $GITHUB_OUTPUT
+            exit 0
+          fi
+
+          awk '{print $1}' "$TARGETS_FILE" | grep -v '^$' > domains.txt
+          TARGET_COUNT=$(wc -l < domains.txt | tr -d ' ')
+          echo "target_count=$TARGET_COUNT" >> $GITHUB_OUTPUT
+          echo "Targets: $TARGET_COUNT"
+
+          if [ "$TARGET_COUNT" -eq "0" ]; then
+            echo 'matrix={"chunk":["empty"]}' >> $GITHUB_OUTPUT
+            echo "total=0" >> $GITHUB_OUTPUT
+            exit 0
+          fi
+
+          mkdir -p chunks
+          split -l "$CHUNK_SIZE" --numeric-suffixes=1 --suffix-length=3 domains.txt chunks/chunk_
+          for f in chunks/chunk_*; do mv "$f" "${f}.txt" 2>/dev/null || true; done
+
+          TOTAL=$(ls chunks/*.txt 2>/dev/null | wc -l)
+          echo "total=$TOTAL" >> $GITHUB_OUTPUT
+          MATRIX=$(ls chunks/*.txt | xargs -I{} basename {} | jq -Rsc 'split("\n") | map(select(length > 0)) | {chunk: .}')
+          echo "matrix=$MATRIX" >> $GITHUB_OUTPUT
+
+      - uses: actions/upload-artifact@v4
+        if: steps.split.outputs.total != '0'
+        with:
+          name: nuclei-chunks
+          path: chunks/
+          retention-days: 1
+
+      - name: Notify start
+        if: steps.split.outputs.total != '0'
+        run: |
+          curl -s "https://api.telegram.org/bot${{ secrets.TELEGRAM_TOKEN }}/sendMessage" \
+            -d "chat_id=${{ secrets.CHAT_ID }}&text=🚀 RedBull Nuclei started%0ATargets: ${{ steps.split.outputs.target_count }}%0AJobs: ${{ steps.split.outputs.total }}%0ATemplates: custom-templates/%0ARun: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+
+  scan:
+    needs: prepare
+    if: needs.prepare.outputs.total != '0'
+    runs-on: ubuntu-latest
+    timeout-minutes: 340
+    strategy:
+      matrix: ${{ fromJson(needs.prepare.outputs.matrix) }}
+      fail-fast: false
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-go@v5
+        with:
+          go-version: '1.22'
+          cache: false
+
+      - name: Cache Go binaries
+        uses: actions/cache@v4
+        with:
+          path: ~/go/bin
+          key: go-bins-${{ runner.os }}-nuclei-v1
+          restore-keys: go-bins-${{ runner.os }}-
+
+      - name: Install Nuclei
+        run: |
+          if ! command -v nuclei &> /dev/null; then
+            go install -v github.com/projectdiscovery/nuclei/v3/cmd/nuclei@latest
+          fi
+          echo "$HOME/go/bin" >> $GITHUB_PATH
+
+      - uses: actions/download-artifact@v4
+        with:
+          name: nuclei-chunks
+          path: chunks/
+
+      - name: Run Nuclei
+        id: nuclei
+        run: |
+          CHUNK="${{ matrix.chunk }}"
+          CHUNK_NAME="${CHUNK%.txt}"
+          mkdir -p results
+
+          nuclei \
+            -l "chunks/$CHUNK" \
+            -t custom-templates/ \
+            -severity "${{ github.event.inputs.severity }}" \
+            -o "results/${CHUNK_NAME}-hits.txt" \
+            -c 40 \
+            -rate-limit 100 \
+            -bulk-size 20 \
+            -timeout 10 \
+            -retries 2 \
+            -no-color \
+            -stats \
+            -silent 2>/dev/null || true
+
+          HITS=0
+          [ -f "results/${CHUNK_NAME}-hits.txt" ] && HITS=$(wc -l < "results/${CHUNK_NAME}-hits.txt" | tr -d ' ')
+          echo "hits=$HITS" >> $GITHUB_OUTPUT
+          echo "chunk_name=$CHUNK_NAME" >> $GITHUB_OUTPUT
+          echo "Findings in $CHUNK: $HITS"
+
+      - name: Notify chunk result
+        if: always()
+        run: |
+          HITS="${{ steps.nuclei.outputs.hits }}"
+          CHUNK_NAME="${{ steps.nuclei.outputs.chunk_name }}"
+          if [ "${HITS:-0}" -gt "0" ]; then
+            SNIPPET=$(head -15 "results/${CHUNK_NAME}-hits.txt" 2>/dev/null \
+              | sed 's/&/%26/g; s/</%3C/g; s/>/%3E/g')
+            curl -s "https://api.telegram.org/bot${{ secrets.TELEGRAM_TOKEN }}/sendMessage" \
+              -d "chat_id=${{ secrets.CHAT_ID }}&text=🔴 RedBull Nuclei: ${{ matrix.chunk }} — ${HITS} findings%0A%0A${SNIPPET}%0ARun: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          else
+            curl -s "https://api.telegram.org/bot${{ secrets.TELEGRAM_TOKEN }}/sendMessage" \
+              -d "chat_id=${{ secrets.CHAT_ID }}&text=✅ RedBull Nuclei: ${{ matrix.chunk }} — 0 findings"
+          fi
+
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: results-${{ steps.nuclei.outputs.chunk_name }}
+          path: results/
+          retention-days: 30
+
+  finalize:
+    needs: [prepare, scan]
+    runs-on: ubuntu-latest
+    if: always() && needs.prepare.outputs.total != '0'
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: results-*
+          path: all-results/
+          merge-multiple: true
+
+      - name: Merge and summarise
+        run: |
+          find all-results/ -name "*-hits.txt" -exec cat {} \; 2>/dev/null \
+            | sort -u > final-hits.txt || touch final-hits.txt
+
+          TOTAL=$(wc -l < final-hits.txt | tr -d ' ')
+          CRITICAL=$(grep -ic '\[critical\]' final-hits.txt 2>/dev/null || echo 0)
+          HIGH=$(grep -ic '\[high\]' final-hits.txt 2>/dev/null || echo 0)
+          MEDIUM=$(grep -ic '\[medium\]' final-hits.txt 2>/dev/null || echo 0)
+          LOW=$(grep -ic '\[low\]' final-hits.txt 2>/dev/null || echo 0)
+
+          echo "TOTAL_HITS=$TOTAL"     >> $GITHUB_ENV
+          echo "CRITICAL=$CRITICAL"   >> $GITHUB_ENV
+          echo "HIGH=$HIGH"           >> $GITHUB_ENV
+          echo "MEDIUM=$MEDIUM"       >> $GITHUB_ENV
+          echo "LOW=$LOW"             >> $GITHUB_ENV
+
+      - name: Final notify
+        run: |
+          if [ "${{ env.TOTAL_HITS }}" -gt "0" ]; then
+            MSG="🏁 RedBull Nuclei complete%0ATotal: ${{ env.TOTAL_HITS }}%0A🔴 Critical: ${{ env.CRITICAL }}%0A🟠 High: ${{ env.HIGH }}%0A🟡 Medium: ${{ env.MEDIUM }}%0A🔵 Low: ${{ env.LOW }}%0ARun: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          else
+            MSG="✅ RedBull Nuclei complete — no findings%0ARun: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          fi
+          curl -s "https://api.telegram.org/bot${{ secrets.TELEGRAM_TOKEN }}/sendMessage" \
+            -d "chat_id=${{ secrets.CHAT_ID }}&text=${MSG}"
+
+      - name: Remove lock and handle pending
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          git rm --ignore-unmatch scan_lock.txt
+          git commit -m "Remove scan lock" || true
+          git pull --rebase origin main || true
+          git push || true
+
+          if [ -f pending_assets.txt ] && [ -s pending_assets.txt ]; then
+            echo "Pending assets found — promoting and re-triggering"
+            cp pending_assets.txt new_host.txt
+            > pending_assets.txt
+            git add new_host.txt pending_assets.txt
+            git commit -m "Promote pending assets to new_host.txt"
+            git pull --rebase origin main || true
+            git push
+
+            curl -s -X POST \
+              -H "Authorization: Bearer ${{ secrets.PAT_TOKEN }}" \
+              -H "Accept: application/vnd.github.v3+json" \
+              "https://api.github.com/repos/${{ github.repository }}/actions/workflows/nuclei-scan.yml/dispatches" \
+              -d '{"ref":"main","inputs":{"targets_file":"new_host.txt","severity":"low,medium,high,critical","chunk_size":"100"}}'
+
+            curl -s -X POST \
+              -H "Authorization: Bearer ${{ secrets.PAT_TOKEN }}" \
+              -H "Accept: application/vnd.github.v3+json" \
+              "https://api.github.com/repos/${{ github.repository }}/actions/workflows/naabu-scan.yml/dispatches" \
+              -d '{"ref":"main","inputs":{"ips_file":"new_host.txt"}}'
+          fi
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: FINAL-nuclei-${{ github.run_id }}
+          path: final-hits.txt
+          retention-days: 30

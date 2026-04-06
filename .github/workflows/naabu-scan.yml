@@ -1,0 +1,185 @@
+name: Naabu Port Scanner
+
+on:
+  workflow_dispatch:
+    inputs:
+      ips_file:
+        description: 'Input file (domain ip format or plain IPs)'
+        required: false
+        default: 'new_host.txt'
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+  SENSITIVE_PORTS: "9200,6379,27017,5601,7001,8161,4848,5984,11211,2181,2375,9000,9092,5432,3306,1521,7474,8983,61616,4369,15672"
+
+jobs:
+  naabu:
+    runs-on: ubuntu-latest
+    timeout-minutes: 340
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-go@v5
+        with:
+          go-version: '1.22'
+          cache: false
+
+      - name: Cache Go binaries
+        id: cache-bins
+        uses: actions/cache@v4
+        with:
+          path: ~/go/bin
+          key: go-bins-${{ runner.os }}-naabu-v2
+
+      - name: Install Naabu + httpx
+        if: steps.cache-bins.outputs.cache-hit != 'true'
+        run: |
+          sudo apt-get install -y libpcap-dev -q
+          go install -v github.com/projectdiscovery/naabu/v2/cmd/naabu@latest
+          go install -v github.com/projectdiscovery/httpx/cmd/httpx@latest
+
+      - name: Add Go bin to PATH
+        run: echo "$HOME/go/bin" >> $GITHUB_PATH
+
+      - name: Extract IPs
+        run: |
+          IPS_FILE="${{ github.event.inputs.ips_file }}"
+
+          if [ ! -f "$IPS_FILE" ]; then
+            echo "❌ $IPS_FILE not found"
+            exit 1
+          fi
+
+          COLS=$(awk 'NF>=2{print "two"; exit} {print "one"; exit}' "$IPS_FILE")
+          if [ "$COLS" = "two" ]; then
+            awk '{print $2}' "$IPS_FILE" | grep -v '^$' | sort -u > scan_ips.txt
+          else
+            awk '{print $1}' "$IPS_FILE" | grep -v '^$' | sort -u > scan_ips.txt
+          fi
+
+          COUNT=$(wc -l < scan_ips.txt | tr -d ' ')
+          echo "IPs to scan: $COUNT"
+
+          if [ "$COUNT" -eq "0" ]; then
+            echo "No IPs to scan — exiting"
+            exit 0
+          fi
+
+          curl -s "https://api.telegram.org/bot${{ secrets.TELEGRAM_TOKEN }}/sendMessage" \
+            -d "chat_id=${{ secrets.CHAT_ID }}&text=🔍 RedBull Naabu started%0AIPs: ${COUNT}%0APorts: $SENSITIVE_PORTS%0ARun: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+
+      - name: Run Naabu
+        id: naabu
+        run: |
+          if [ ! -f scan_ips.txt ] || [ ! -s scan_ips.txt ]; then
+            echo "naabu_hits=0" >> $GITHUB_OUTPUT
+            exit 0
+          fi
+
+          naabu \
+            -list scan_ips.txt \
+            -p "$SENSITIVE_PORTS" \
+            -c 25 \
+            -rate 150 \
+            -timeout 8 \
+            -retries 3 \
+            -silent \
+            -o naabu_raw.txt 2>/dev/null || true
+
+          HITS=0
+          [ -f naabu_raw.txt ] && HITS=$(wc -l < naabu_raw.txt | tr -d ' ')
+          echo "naabu_hits=$HITS" >> $GITHUB_OUTPUT
+          echo "Raw open ports: $HITS"
+
+      - name: Verify services
+        id: verify
+        run: |
+          if [ ! -f naabu_raw.txt ] || [ ! -s naabu_raw.txt ]; then
+            echo "verified_hits=0" >> $GITHUB_OUTPUT
+            exit 0
+          fi
+
+          > naabu_verified.txt
+
+          printf '%s\n' \
+            "9200=Elasticsearch" \
+            "6379=Redis" \
+            "27017=MongoDB" \
+            "5601=Kibana" \
+            "7001=WebLogic" \
+            "8161=ActiveMQ" \
+            "4848=GlassFish" \
+            "5984=CouchDB" \
+            "11211=Memcached" \
+            "2181=Zookeeper" \
+            "2375=Docker API" \
+            "9000=Portainer/SonarQube" \
+            "9092=Kafka" \
+            "5432=PostgreSQL" \
+            "3306=MySQL" \
+            "1521=Oracle DB" \
+            "7474=Neo4j" \
+            "8983=Solr" \
+            "61616=ActiveMQ OpenWire" \
+            "4369=RabbitMQ EPMD" \
+            "15672=RabbitMQ Management" \
+            > /tmp/port_services.txt
+
+          while IFS= read -r line; do
+            IP=$(echo "$line" | cut -d: -f1)
+            PORT=$(echo "$line" | cut -d: -f2)
+            SERVICE=$(grep "^${PORT}=" /tmp/port_services.txt | cut -d= -f2 || echo "Unknown")
+
+            if echo "$PORT" | grep -qE "^(9200|5601|8161|4848|5984|9000|7474|8983|15672|7001)$"; then
+              RESP=$(curl -sk --max-time 5 --connect-timeout 3 \
+                -o /dev/null -w "%{http_code}" \
+                "http://${IP}:${PORT}/" 2>/dev/null || echo "000")
+              if [ "$RESP" != "000" ] && [ "$RESP" != "400" ] && [ "$RESP" != "404" ]; then
+                echo "${IP}:${PORT} [${SERVICE}] HTTP:${RESP}" >> naabu_verified.txt
+              fi
+
+            elif echo "$PORT" | grep -qE "^(6379|27017|11211|2375|9092|5432|3306|1521|2181|61616|4369)$"; then
+              BANNER=$(echo "" | nc -w 3 "$IP" "$PORT" 2>/dev/null | head -c 100 | tr -d '\000' | tr '\n' ' ')
+              if [ -n "$BANNER" ]; then
+                BANNER_CLEAN=$(echo "$BANNER" | cut -c1-60)
+                echo "${IP}:${PORT} [${SERVICE}] BANNER:${BANNER_CLEAN}" >> naabu_verified.txt
+              fi
+
+            else
+              echo "${IP}:${PORT} [${SERVICE}] UNVERIFIED" >> naabu_verified.txt
+            fi
+
+          done < naabu_raw.txt
+
+          VERIFIED=0
+          [ -f naabu_verified.txt ] && VERIFIED=$(wc -l < naabu_verified.txt | tr -d ' ')
+          echo "verified_hits=$VERIFIED" >> $GITHUB_OUTPUT
+          echo "Verified: $VERIFIED (raw: ${{ steps.naabu.outputs.naabu_hits }})"
+
+      - name: Alert findings
+        run: |
+          RAW="${{ steps.naabu.outputs.naabu_hits }}"
+          VERIFIED="${{ steps.verify.outputs.verified_hits }}"
+
+          if [ -f naabu_verified.txt ] && [ -s naabu_verified.txt ]; then
+            while IFS= read -r line; do
+              IP=$(echo "$line" | awk '{print $1}' | cut -d: -f1)
+              PORT=$(echo "$line" | awk '{print $1}' | cut -d: -f2)
+              REST=$(echo "$line" | cut -d' ' -f2-)
+              curl -s "https://api.telegram.org/bot${{ secrets.TELEGRAM_TOKEN }}/sendMessage" \
+                -d "chat_id=${{ secrets.CHAT_ID }}&text=🚨 RedBull OPEN PORT (verified)%0AIP: ${IP}%0APort: ${PORT}%0ADetail: ${REST}%0ARun: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+            done < naabu_verified.txt
+          else
+            curl -s "https://api.telegram.org/bot${{ secrets.TELEGRAM_TOKEN }}/sendMessage" \
+              -d "chat_id=${{ secrets.CHAT_ID }}&text=✅ RedBull Naabu complete%0ARaw: ${RAW:-0} → Verified: ${VERIFIED:-0}%0ARun: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          fi
+
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: naabu-results-${{ github.run_id }}
+          path: |
+            naabu_raw.txt
+            naabu_verified.txt
+          retention-days: 30
