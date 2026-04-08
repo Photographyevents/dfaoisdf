@@ -2732,7 +2732,6 @@ news.wiiings.com
 news.wingsforlife.com
 newseditor.redbullcontentpool.com
 newsletter.redbull.com.tr
-newsletter.redbull.it
 newsletter.redbull.ru
 newsletter.redbullaudioplayer.com
 newsletter.redbullcliffdiving.com
@@ -2860,7 +2859,6 @@ orbit-link-forwarder-frontend.redbull.com
 orbit-video-upload.redbull.com
 orbit.redbull.com
 order.flugplan.redbull.com
-ordertool.redbull.it
 organics-assets.redbull.com
 organics-stg1.redbull.com
 organics-stg2.redbull.com
@@ -3148,7 +3146,6 @@ planetarium.redbull.com
 planetretail-q.redbull.com
 planetretail.redbull.com
 planit.redbullmediahouse.com
-planning.redbull.it
 planogram-d.redbull.com
 planogram-q.redbull.com
 planogram.redbull.com
@@ -4060,7 +4057,10 @@ rm-staging.redbull.com
 rm.redbull.com
 rm.redbull.tv
 rm.redbullshop.com
+rma-preview-staging.redbull.com
+rma-preview.redbull.com
 rma-staging.redbull.com
+rma.redbull.com
 ro.redbull.com
 roadie.redbull.com.au
 rollout.redbull.com
@@ -4865,7 +4865,6 @@ totalzero.redbullusa.com
 tourbus.redbull.ch
 tourbus.redbull.com
 tourbus.redbull.es
-tourbus.redbull.it
 tourbus.redbull.lt
 trabajaconnosotros.redbull.es
 trackfinity.redbull.com
