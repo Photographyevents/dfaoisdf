@@ -190,6 +190,8 @@ angus.redbull.com
 anothervoice.redbullrecords.com
 aonvpn.redbullsalzburg.at
 aovpn.redbulltechnology.com
+apex-q.redbull.com
+apex.redbull.com
 api-d.rbleipzig.com
 api-design.contacts.redbullmediapitch.com
 api-design.redbullmediapitch.com
