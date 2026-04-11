@@ -53,56 +53,61 @@ jobs:
       - name: Install Python deps
         run: pip install requests
 
-      - name: Run monitor
+      - name: Run monitor and trigger scans
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           CHAT_ID: ${{ secrets.CHAT_ID }}
-        run: python monitor.py
-
-      - name: Commit state files
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          touch scope_state.txt new_host.txt pending_assets.txt fuzz_targets.txt
-          git add scope_state.txt new_host.txt pending_assets.txt fuzz_targets.txt
-          git add initial_scan_done.flag 2>/dev/null || true
-          git commit -m "Update RedBull scope state [$(date -u +%Y-%m-%dT%H:%M)]" || true
-          git pull --rebase origin main || true
-          git push || true
-
-      - name: Trigger scans if new assets found
-        run: |
-          if [ -f new_host.txt ] && [ -s new_host.txt ]; then
-            echo "New assets found — creating lock and triggering scans"
-
-            echo "${{ github.run_id }}" > scan_lock.txt
-            git add scan_lock.txt
-            git commit -m "Create scan lock"
+          # Run the python script
+          python monitor.py
+          
+          # Configure Git
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          
+          # 1. ALWAYS commit state changes (even if no live hosts were found)
+          if git diff --name-only | grep -q "scope_state.txt"; then
+            echo "State changed. Committing scope_state.txt..."
+            git add scope_state.txt initial_scan_done.flag || true
+            git commit -m "Update scope state (routine sync) [skip ci]" || true
             git pull --rebase origin main || true
-            git push
+            git push || true
+          else
+            echo "No changes to scope_state.txt."
+          fi
 
+          # 2. Trigger scans ONLY if new live hosts were written to new_host.txt
+          if [ -f new_host.txt ] && [ -s new_host.txt ]; then
+            echo "🚀 New live hosts found! Committing scan targets and triggering workflows..."
+            
+            # Commit the target files and lock
+            touch scan_lock.txt
+            git add new_host.txt fuzz_targets.txt pending_assets.txt scan_lock.txt || true
+            git commit -m "Add new live hosts and create scan lock" || true
+            git pull --rebase origin main || true
+            git push || true
+
+            # Trigger Nuclei
             curl -s -X POST \
               -H "Authorization: Bearer ${{ secrets.PAT_TOKEN }}" \
               -H "Accept: application/vnd.github.v3+json" \
               "https://api.github.com/repos/${{ github.repository }}/actions/workflows/nuclei-scan.yml/dispatches" \
               -d '{"ref":"main","inputs":{"targets_file":"new_host.txt","severity":"low,medium,high,critical","chunk_size":"100"}}'
 
+            # Trigger Naabu
             curl -s -X POST \
               -H "Authorization: Bearer ${{ secrets.PAT_TOKEN }}" \
               -H "Accept: application/vnd.github.v3+json" \
               "https://api.github.com/repos/${{ github.repository }}/actions/workflows/naabu-scan.yml/dispatches" \
               -d '{"ref":"main","inputs":{"ips_file":"new_host.txt"}}'
 
+            # Trigger Fuzzing (if targets exist)
             if [ -f fuzz_targets.txt ] && [ -s fuzz_targets.txt ]; then
+              echo "🎯 Triggering Fuzz scan..."
               curl -s -X POST \
                 -H "Authorization: Bearer ${{ secrets.PAT_TOKEN }}" \
                 -H "Accept: application/vnd.github.v3+json" \
                 "https://api.github.com/repos/${{ github.repository }}/actions/workflows/fuzz-scan.yml/dispatches" \
                 -d '{"ref":"main","inputs":{"targets_file":"fuzz_targets.txt"}}'
-              echo "✅ Fuzz scan triggered"
             fi
-
-            echo "✅ Nuclei + Naabu triggered"
-          else
-            echo "No new assets — skipping scan trigger"
           fi
