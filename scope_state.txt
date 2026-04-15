@@ -236,7 +236,6 @@ api.flyingbulls.com
 api.gps-d.redbull.com
 api.gps-q.redbull.com
 api.gps.redbull.com
-api.leaderboards-design.redbull.com
 api.officeplan.redbull.com
 api.order.flugplan.redbull.com
 api.partners-q.redbull.com
@@ -370,8 +369,8 @@ atlas-staging.redbull.com
 atlas.redbull.com
 atlaslatam-staging.redbull.com
 atlaslatam.redbull.com
+atlassian-mcp-gateway-d.redbull.com
 atrecord.redbull.com
-atspbrsvr01rb.redbull.com
 atszgco-lsvpn.redbull.com
 atszgcovr41rb.redbull.com
 atszgmhvr01rb.redbull.com
@@ -501,6 +500,8 @@ bi-landingzone-d.redbull.com
 bi-landingzone-q.redbull.com
 bi-landingzone.redbull.com
 bib.wingsforlifeworldrun.com
+bifrost-staging-openwebui.redbull.com
+bifrost-staging.redbull.com
 bike.redbull.com
 billagface.redbull.sk
 bireports-api-d.redbull.com
@@ -1240,6 +1241,7 @@ dokodemogym.redbull.com
 dolly-workshop-aro-d.redbull.com
 domains-api-d.redbull.com
 domains-api-q.redbull.com
+domains-api.redbull.com
 domains-aro-d.redbull.com
 domains-aro-q.redbull.com
 domains-d.redbull.com
@@ -1473,6 +1475,7 @@ energydrink-za.redbull.com
 energydrink.redbull.com
 energystation.redbull.co.uk
 energyticker.redbullusa.com
+enfocus.redbull.com
 engagement.redbull.com
 engineering.redbull.com
 enroll-q.redbull.com
@@ -1678,6 +1681,7 @@ formulaone.redbull.com.br
 formular.rbleipzig.com
 fortiter-ext.redbullperformance.com
 forum.redbullracing.com
+fotoweb.redbull.com
 fourbythree.redbull.co.uk
 fr-vpn01.redbull.com
 fr.redbullmusicacademy.com
@@ -1786,6 +1790,9 @@ gps.redbull.com
 grandepremioredbull.com
 grandpoobear.redbull.com
 graph.redbullradio.com
+graphql-analytics-design.redbull.com
+graphql-analytics-staging.redbull.com
+graphql-analytics.redbull.com
 graphql-proxy-staging.redbull.com
 graphql-proxy.redbull.com
 gravity-profile-image.redbull.design
@@ -3035,6 +3042,10 @@ p-p.redbull.com
 packshots.redbull.com
 paddock-staging.redbullracing.com
 paddock.redbullracing.com
+page-configs-preview.redbull.com
+page-configs-staging-preview.redbull.com
+page-configs-staging.redbull.com
+page-configs.redbull.com
 pageflow.redbull.com
 pages.redbullrecords.com
 pam-upload-status.redbull.com
@@ -3910,7 +3921,6 @@ redbullracing.redbull.com
 redbullracingaustralia.com
 redbullracingcollectibles.com
 redbullracingexperiences.com
-redbullracingshop.com
 redbullradioservice.com
 redbullrapduellquiz.redbull.com
 redbullraplika.com
@@ -4018,6 +4028,9 @@ remareporting-d.redbull.com
 remareporting-q-deploy.redbull.com
 remareporting-q.redbull.com
 remareporting.redbull.com
+remitlink-d.redbull.com
+remitlink-q.redbull.com
+remitlink.redbull.com
 remote.redbulltechnology.com
 rep-d.redbull.com
 rep-q.redbull.com
