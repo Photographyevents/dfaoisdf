@@ -1,0 +1,5 @@
+graphql-analytics-staging.redbull.com
+domains-api.redbull.com
+bifrost-staging.redbull.com
+page-configs-staging.redbull.com
+page-configs-staging-preview.redbull.com
