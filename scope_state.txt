@@ -500,6 +500,7 @@ bi-landingzone-d.redbull.com
 bi-landingzone-q.redbull.com
 bi-landingzone.redbull.com
 bib.wingsforlifeworldrun.com
+bifrost-portal-staging.redbull.com
 bifrost-staging-openwebui.redbull.com
 bifrost-staging.redbull.com
 bike.redbull.com
@@ -4171,6 +4172,7 @@ scuderiatororosso.redbull.com
 se4sons.redbull.com
 search-api-d.redbull.com
 search-api-q.redbull.com
+search-api.redbull.com
 search-p.redbull.com
 search-q.redbull.com
 search.redbull.com
