@@ -1,3 +1,2 @@
-staging-preview.rbomiya.com
-staging.rbomiya.com
-staging-delivery.rbomiya.com
+search-api.redbull.com
+bifrost-portal-staging.redbull.com

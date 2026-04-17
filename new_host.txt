@@ -1,12 +1,2 @@
-staging-preview.rbomiya.com
-production-delivery.rbomiya.com
-design-delivery.rbomiya.com
-production-preview.rbomiya.com
-preview.rbomiya.com
-next.rbomiya.com
-staging.rbomiya.com
-staging-delivery.rbomiya.com
-design.rbomiya.com
-design-preview.rbomiya.com
-k4-overview01.redbull.com
-timone.redbull.com
+search-api.redbull.com
+bifrost-portal-staging.redbull.com
