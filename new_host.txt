@@ -1,2 +1,1 @@
-search-api.redbull.com
-bifrost-portal-staging.redbull.com
+login-dev.redbullbragantino.com
