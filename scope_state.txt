@@ -2266,6 +2266,7 @@ localsourcing.redbull.com
 login-d.redbull.com
 login-design.redbullmediapitch.com
 login-dev.rbleipzig.com
+login-dev.redbullbragantino.com
 login-engineering.redbull.com
 login-help.redbull.com
 login-mediadata.redbull.com
@@ -2768,6 +2769,7 @@ next.redbullsimracing.com
 nighthunt.redbull.com
 nightmaster.redbull.com
 nimbus-chat-d.redbull.com
+nimbus-chat-q.redbull.com
 nimbus.redbull.com
 ninja-api-d.redbull.com
 ninja-api-q.redbull.com
@@ -3960,7 +3962,6 @@ redbullscreeningroom.com
 redbullsdofuturo.redbullshop.com.br
 redbullsfan.tv
 redbullshop.com
-redbullshop.com.br
 redbullshopus.com
 redbullsimplycola.com
 redbullsimracing.com
