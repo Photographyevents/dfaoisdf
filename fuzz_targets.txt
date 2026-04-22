@@ -1,1 +1,4 @@
-login-dev.redbullbragantino.com
+mta-2.internal-info.redbull.com
+multimedia.internal-info.redbull.com
+internal-info.redbull.com
+www.internal-info.redbull.com
