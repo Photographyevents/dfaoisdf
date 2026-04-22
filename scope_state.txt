@@ -2011,6 +2011,7 @@ int-wiiings-mas.redbull.com
 int-wiiings.redbull.com
 int.wiiings.com
 internal-assets.redbull.com
+internal-info.redbull.com
 internal.redbullcontentpool.com
 internalauditdb-api-d.redbull.com
 internalauditdb-api-q.redbull.com
@@ -2685,6 +2686,7 @@ mta-2.info.newcastleredbulls.com
 mta-2.info.rbomiya.com
 mta-2.info.redbullborahansgrohe.com
 mta-2.info.redbullmotorsports.com
+mta-2.internal-info.redbull.com
 mta-2.it-info.redbull.com
 mta-2.mail.redbullmediahouse.com
 mta-2.redtop.redbull.com
@@ -2699,6 +2701,7 @@ multimedia.info.newcastleredbulls.com
 multimedia.info.rbomiya.com
 multimedia.info.redbullborahansgrohe.com
 multimedia.info.redbullmotorsports.com
+multimedia.internal-info.redbull.com
 multimedia.it-info.redbull.com
 multimedia.mail.redbullmediahouse.com
 multimedia.news.redbullmediahouse.com
@@ -5335,6 +5338,7 @@ www.info.redbullshop.com.br
 www.infonet-mobile.redbull.com
 www.infonet.redbull.com
 www.int.devel.redbull.com
+www.internal-info.redbull.com
 www.it-info.redbull.com
 www.it.devel.redbull.com
 www.latowpuszce.redbull.pl
