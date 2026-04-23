@@ -22,6 +22,8 @@ _dnsauth.redbullnewyork.com
 _dnsauth.redbullshop.com
 _dnsauth.redbullshopus.com
 _f6a380c95c75be276b03810283e90ea6.redbullpanorama.com
+aadlung-des-cert-test.redbull.com
+aadlung-des-cert-test.redbull.tv
 aadlung-test-0815.redbullmediahouse.com
 aaroncolton.redbullna.com
 ablink.updates.redbull.com
@@ -1366,7 +1368,6 @@ em3723.racingbulls.com
 em4569.noreply.redbull.com
 em4931.wingsforlifeworldrun.com
 em5041.wingsforlifeworldrun.com
-em5197.app.redbullbragantinoexperience.com
 em5277.invoice.redbullmediahouse.com
 em5763.redbullsalzburg.at
 em5823.wingsforlifeworldrun.com
@@ -1798,6 +1799,8 @@ graphql-analytics-staging.redbull.com
 graphql-analytics.redbull.com
 graphql-proxy-staging.redbull.com
 graphql-proxy.redbull.com
+gravity-mcp-staging.redbull.design
+gravity-mcp.redbull.design
 gravity-profile-image.redbull.design
 gravity.redbull.design
 gravitychallenge.redbull.com
@@ -4704,6 +4707,9 @@ stellar.redbull.com
 steve-scheduler.redbull.com
 steve.redbull.com
 stg.presspass.redbull.com
+storage-d.redbull.com
+storage-q.redbull.com
+storage.redbull.com
 storage.wiiings.com
 store.redbullracing.com
 storecare-test.redbull.it
