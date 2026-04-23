@@ -1,4 +1,4 @@
-mta-2.internal-info.redbull.com
-multimedia.internal-info.redbull.com
-internal-info.redbull.com
-www.internal-info.redbull.com
+aadlung-des-cert-test.redbull.tv
+gravity-mcp.redbull.design
+aadlung-des-cert-test.redbull.com
+gravity-mcp-staging.redbull.design
