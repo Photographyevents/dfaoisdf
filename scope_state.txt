@@ -184,7 +184,6 @@ analytics-tc.redbull.com
 analytics-webide-dap.redbull.com
 analytics.rbleipzig.com
 analytics.redbull.com
-analyticshub.rbleipzig.com
 analyzer-ui.redtech.redbull.com
 analyzer.redtech.redbull.com
 anatexit-tr.redtech.redbull.com
@@ -216,7 +215,7 @@ api-staging.redbull.com
 api-staging.redbull.tv
 api-staging.redbullmediapitch.com
 api-uat.redbull.tv
-api.analyticshub.rbleipzig.com
+api.analytics.rbleipzig.com
 api.atlas-design.redbull.com
 api.atlas-staging.redbull.com
 api.atlas.redbull.com
@@ -1155,8 +1154,7 @@ dev-energydrink.redbull.com
 dev-initiative.app.redbull.com
 dev-login.redbullmediahouse.com
 dev.analytics.rbleipzig.com
-dev.analyticshub.rbleipzig.com
-dev.api.analyticshub.rbleipzig.com
+dev.api.analytics.rbleipzig.com
 dev.api.b2b-approval-portal.rbleipzig.com
 dev.api.playershare.rbleipzig.com
 dev.awayportal.rbleipzig.com
@@ -2546,6 +2544,9 @@ meppconnect-d.redbull.com
 meppconnect-q.redbull.com
 meppconnect.redbull.com
 meppng-d.redbull.com
+meppng-opensearch-d.redbull.com
+meppng-opensearch-q.redbull.com
+meppng-opensearch.redbull.com
 meppng-q.redbull.com
 meppng.redbull.com
 merch.redbull64barslive.com
@@ -4993,6 +4994,7 @@ us.redbull.jobs
 us.redbulletin.com
 us.redbullrookiescup.com
 usa.getredbulletin.com
+user-manuals.redbull.tv
 usersync-d.redbull.com
 usersync-q.redbull.com
 usersync.redbull.com
