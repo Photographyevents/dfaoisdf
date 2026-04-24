@@ -1,4 +1,6 @@
-aadlung-des-cert-test.redbull.tv
-gravity-mcp.redbull.design
-aadlung-des-cert-test.redbull.com
-gravity-mcp-staging.redbull.design
+api.analytics.rbleipzig.com
+user-manuals.redbull.tv
+meppng-opensearch-d.redbull.com
+meppng-opensearch-q.redbull.com
+meppng-opensearch.redbull.com
+dev.api.analytics.rbleipzig.com

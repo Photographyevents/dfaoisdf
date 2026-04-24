@@ -1,3 +1,2 @@
-aadlung-des-cert-test.redbull.tv
-aadlung-des-cert-test.redbull.com
-gravity-mcp-staging.redbull.design
+api.analytics.rbleipzig.com
+dev.api.analytics.rbleipzig.com
