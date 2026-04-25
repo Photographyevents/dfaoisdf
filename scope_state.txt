@@ -371,6 +371,7 @@ atlas.redbull.com
 atlaslatam-staging.redbull.com
 atlaslatam.redbull.com
 atlassian-mcp-gateway-d.redbull.com
+atlassian-mcp-gateway-q.redbull.com
 atrecord.redbull.com
 atszgco-lsvpn.redbull.com
 atszgcovr41rb.redbull.com
