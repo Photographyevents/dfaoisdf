@@ -1,2 +1,0 @@
-api.analytics.rbleipzig.com
-dev.api.analytics.rbleipzig.com
