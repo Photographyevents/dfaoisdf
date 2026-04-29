@@ -836,6 +836,7 @@ college.redbullrecords.com
 collegeblock.redbull.at
 collegelogin.redbullrecords.com
 collegiate.redbull.com
+comment-sense.redbull.com
 commercial.redbullmediahouse.com
 commercial.redbullracing.com
 commercialdistribution.redbull.com
@@ -1157,10 +1158,12 @@ dev-login.redbullmediahouse.com
 dev.analytics.rbleipzig.com
 dev.api.analytics.rbleipzig.com
 dev.api.b2b-approval-portal.rbleipzig.com
+dev.api.eu.playershare.rbleipzig.com
 dev.api.playershare.rbleipzig.com
 dev.awayportal.rbleipzig.com
 dev.b2b-approval-portal.rbleipzig.com
 dev.ecrbs.redbulls.com
+dev.eu.playershare.rbleipzig.com
 dev.n8n.rbleipzig.com
 dev.playershare.rbleipzig.com
 dev.redbullaudiolibrary.com
