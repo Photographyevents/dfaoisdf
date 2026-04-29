@@ -1,0 +1,2 @@
+dev.eu.playershare.rbleipzig.com
+dev.api.eu.playershare.rbleipzig.com

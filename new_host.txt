@@ -1,1 +1,3 @@
-atlassian-mcp-gateway-q.redbull.com
+dev.eu.playershare.rbleipzig.com
+dev.api.eu.playershare.rbleipzig.com
+comment-sense.redbull.com
