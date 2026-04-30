@@ -232,6 +232,7 @@ api.competitorcalculator.redbull.com
 api.contacts.redbullmediapitch.com
 api.developers.redbull.com
 api.editor-design.redbullcontentpool.com
+api.eu.playershare.rbleipzig.com
 api.flyingbulls.at
 api.flyingbulls.com
 api.gps-d.redbull.com
@@ -624,6 +625,7 @@ bulltracking-report-staging.redbull.com
 bulltracking-report.redbull.com
 bulltracking-staging.redbull.com
 bulltracking.redbull.com
+bullzone-rbl.redbulls.com
 buy.newyorkredbullstickets.com
 bwdis.at.wiiings.com
 c24fd603d6673c6cb6b0bc598b46dbd1.redbull.com
@@ -1152,7 +1154,6 @@ designsystem.redbull.com
 desktop.redbulltechnology.com
 dev-conquest.redbull.com
 dev-docs.redbull.tv
-dev-energydrink.redbull.com
 dev-initiative.app.redbull.com
 dev-login.redbullmediahouse.com
 dev.analytics.rbleipzig.com
@@ -1520,6 +1521,7 @@ essaiemoi.redbulletin.ch
 estarenforma.redbull.es
 estudio.redbull.com
 eu.canvases.redbull.com
+eu.playershare.rbleipzig.com
 eu.redbullrookiescup.com
 event.redbull.com
 events-design.redbull.com
@@ -2929,7 +2931,6 @@ origin-dms-q.redbull.com
 origin-dms.redbull.com
 origin-drive-q.redbull.com
 origin-drive.redbull.com
-origin-energydrink.redbull.com
 origin-givesyouwings.redbull.com
 origin-image.redbull.com
 origin-inception.redbullmediahouse.com
@@ -4091,6 +4092,7 @@ rm-preview.redbull.com
 rm-staging.redbull.com
 rm.redbull.com
 rm.redbull.tv
+rm.redbullgmoinfo.com
 rm.redbullshop.com
 rma-instant-dispatcher-staging.redbull.com
 rma-instant-dispatcher.redbull.com
