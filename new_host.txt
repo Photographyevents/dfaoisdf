@@ -1,3 +1,4 @@
-dev.eu.playershare.rbleipzig.com
-dev.api.eu.playershare.rbleipzig.com
-comment-sense.redbull.com
+api.eu.playershare.rbleipzig.com
+eu.playershare.rbleipzig.com
+bullzone-rbl.redbulls.com
+rm.redbullgmoinfo.com
