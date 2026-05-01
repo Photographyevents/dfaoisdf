@@ -1,4 +1,1 @@
-api.eu.playershare.rbleipzig.com
-eu.playershare.rbleipzig.com
-bullzone-rbl.redbulls.com
-rm.redbullgmoinfo.com
+gearbox.redbull.com
