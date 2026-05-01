@@ -232,7 +232,6 @@ api.competitorcalculator.redbull.com
 api.contacts.redbullmediapitch.com
 api.developers.redbull.com
 api.editor-design.redbullcontentpool.com
-api.eu.playershare.rbleipzig.com
 api.flyingbulls.at
 api.flyingbulls.com
 api.gps-d.redbull.com
@@ -1159,12 +1158,10 @@ dev-login.redbullmediahouse.com
 dev.analytics.rbleipzig.com
 dev.api.analytics.rbleipzig.com
 dev.api.b2b-approval-portal.rbleipzig.com
-dev.api.eu.playershare.rbleipzig.com
 dev.api.playershare.rbleipzig.com
 dev.awayportal.rbleipzig.com
 dev.b2b-approval-portal.rbleipzig.com
 dev.ecrbs.redbulls.com
-dev.eu.playershare.rbleipzig.com
 dev.n8n.rbleipzig.com
 dev.playershare.rbleipzig.com
 dev.redbullaudiolibrary.com
@@ -1521,7 +1518,6 @@ essaiemoi.redbulletin.ch
 estarenforma.redbull.es
 estudio.redbull.com
 eu.canvases.redbull.com
-eu.playershare.rbleipzig.com
 eu.redbullrookiescup.com
 event.redbull.com
 events-design.redbull.com
@@ -1754,6 +1750,7 @@ garage.redbull.com
 garrettreynoldsultimate.redbull.com
 gastroreports.redbull.com
 gateway.redbulltechnology.com
+gearbox.redbull.com
 geheimkonzert.redbull.at
 genai-api-d.redbull.com
 genai-d.redbull.com
