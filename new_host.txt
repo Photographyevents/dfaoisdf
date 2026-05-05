@@ -1,1 +1,7 @@
-gearbox.redbull.com
+sales-image-library.redbull.com
+briefingportal-d.redbull.com
+briefingportal-q.redbull.com
+briefingportal-hf-q.redbull.com
+briefingportal.redbull.com
+walmart-oos.redbull.com
+walmart-oos-q.redbull.com
