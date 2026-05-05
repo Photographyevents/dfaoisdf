@@ -583,6 +583,10 @@ braze-identifier.redbull.com
 brbelgvvr01rb.redbull.com
 brcurdmvr01rb.redbull.com
 breaktimesessions.redbull.com.br
+briefingportal-d.redbull.com
+briefingportal-hf-q.redbull.com
+briefingportal-q.redbull.com
+briefingportal.redbull.com
 briefings.redbull.com
 brightcove.redbull.com
 brrecrlvr01rb.redbull.com
@@ -972,6 +976,7 @@ coveragedb-helpcenter.redbull.com
 coveragedb-mmas.redbull.com
 coveragedb-uploadcenter.redbull.com
 coveragedb.redbull.com
+cp-atlas.redbull.com
 cp-mcm-d.redbull.com
 cp-mcm.redbull.com
 cp.redbull.com.tr
@@ -4137,6 +4142,7 @@ safereach-user-synch-q.redbull.com
 safereach-user-synch.redbull.com
 salaryreview-q.redbull.com
 salaryreview.redbull.com
+sales-image-library.redbull.com
 salescatalogue-q.redbull.com
 sampling-server-qa.redbull.com
 sampling-server-staging.redbull.com
@@ -5083,6 +5089,8 @@ vr.pmd.redbull.com
 vte-q.redbull.com
 vte.redbull.com
 wallpapers.redbull.com
+walmart-oos-q.redbull.com
+walmart-oos.redbull.com
 wap.redbullxfighters.com
 warriorscan.redbull.com
 wcmupd-q.redbull.com
