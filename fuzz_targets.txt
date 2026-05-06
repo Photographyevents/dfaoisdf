@@ -1,4 +1,1 @@
-briefingportal-d.redbull.com
-briefingportal-q.redbull.com
-briefingportal-hf-q.redbull.com
-briefingportal.redbull.com
+acme-ssl-test.redbull.com
