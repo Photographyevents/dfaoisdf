@@ -74,6 +74,7 @@ acis-infra-q.redbull.com
 acis-infra.redbull.com
 acis-lpr-elb-q.redbull.com
 acis-lpr-elb.redbull.com
+acme-ssl-test.redbull.com
 acpredbulldrivers.pt
 actions-service-qa.redbull.com
 actions-service-staging.redbull.com
@@ -3637,6 +3638,7 @@ rbomiya.jp
 rbparload-d.redbull.com
 rbparload-q.redbull.com
 rbparload.redbull.com
+rbpl-payments.redbull.com
 rbponboarding-admin.redbull.com
 rbponboarding.redbull.com
 rbreporter.redbull.com
