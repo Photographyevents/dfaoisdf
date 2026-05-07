@@ -1,1 +1,2 @@
-acme-ssl-test.redbull.com
+www.bio.redbullsalzburg.at
+bio.redbullsalzburg.at
