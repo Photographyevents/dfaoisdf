@@ -508,6 +508,7 @@ bifrost-staging-openwebui.redbull.com
 bifrost-staging.redbull.com
 bike.redbull.com
 billagface.redbull.sk
+bio.redbullsalzburg.at
 bireports-api-d.redbull.com
 bireports-api-q.redbull.com
 bireports-api.redbull.com
@@ -5271,6 +5272,7 @@ www.at.devel.redbull.com
 www.au.devel.redbull.com
 www.b2b.wingsforlifeworldrun.com
 www.be.devel.redbull.com
+www.bio.redbullsalzburg.at
 www.bob-staging.redbullshop.com.br
 www.bob.redbullshop.com.br
 www.bob3-staging.redbullshop.com.br
