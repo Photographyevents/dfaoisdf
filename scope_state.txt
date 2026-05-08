@@ -843,7 +843,6 @@ college.redbullrecords.com
 collegeblock.redbull.at
 collegelogin.redbullrecords.com
 collegiate.redbull.com
-comment-sense.redbull.com
 commercial.redbullmediahouse.com
 commercial.redbullracing.com
 commercialdistribution.redbull.com
@@ -1070,6 +1069,12 @@ dagster-kaaps-ro-d.redbull.com
 dagster-kaaps-ro-q.redbull.com
 dagster-kaaps-ro.redbull.com
 dagster-kaaps.redbull.com
+dagster-rbna-it-d.redbull.com
+dagster-rbna-it-q.redbull.com
+dagster-rbna-it-ro-d.redbull.com
+dagster-rbna-it-ro-q.redbull.com
+dagster-rbna-it-ro.redbull.com
+dagster-rbna-it.redbull.com
 daily.redbullmusicacademy.com
 dakar2014.redbull.fr
 dam.redbullsalzburg.at
@@ -1866,6 +1871,7 @@ hm-headless-s.redbull.com
 hm-headless.redbull.com
 hml-ingressos.redbullbragantino.com.br
 holding.microsites.redbull.com
+homejersey.rbleipzig.com
 horst-api-mockup.redbull.com
 hospitality.redbull.com
 hospitality.redbull.racing
@@ -3822,6 +3828,7 @@ redbullaudioplayer.com
 redbullb2b.com
 redbullbargames.at
 redbullbasement.com
+redbullbasementworldfinalisthub.com
 redbullbatalladelosgallos.com
 redbullbcone.com
 redbullbconenewsroom.com
