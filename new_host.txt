@@ -1,8 +1,2 @@
-redbullbasementworldfinalisthub.com
-dagster-rbna-it-ro-q.redbull.com
-dagster-rbna-it-ro-d.redbull.com
-dagster-rbna-it-q.redbull.com
-dagster-rbna-it-d.redbull.com
-dagster-rbna-it-ro.redbull.com
-dagster-rbna-it.redbull.com
-homejersey.rbleipzig.com
+cosmos-mcp.redbull.design
+cosmos-mcp-staging.redbull.design
