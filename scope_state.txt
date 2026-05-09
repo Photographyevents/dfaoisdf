@@ -198,11 +198,8 @@ api-d.rbleipzig.com
 api-design.contacts.redbullmediapitch.com
 api-design.redbullmediapitch.com
 api-documentation-d.redbull.com
-api-documentation-d.redbull.com.redbull.com
 api-documentation-q.redbull.com
-api-documentation-q.redbull.com.redbull.com
 api-documentation.redbull.com
-api-documentation.redbull.com.redbull.com
 api-p.kuiper.redbull.com
 api-p.rbleipzig.com
 api-player-staging.redbull.com
@@ -263,6 +260,7 @@ apinew.redbullmobile.om
 apo-test.redbullcontentpool.com
 app.esim.redbullmobile.com
 app.redbull.com
+app.redbullbasement.com
 app.review.wingsforlifeworldrun.com
 app.rideliketony.redbull.it
 app.teams.redbull.racing
@@ -512,8 +510,6 @@ bio.redbullsalzburg.at
 bireports-api-d.redbull.com
 bireports-api-q.redbull.com
 bireports-api.redbull.com
-bireports-aro-api.redbull.com
-bireports-aro.redbull.com
 bireports-d.redbull.com
 bireports-q.redbull.com
 bireports.redbull.com
@@ -690,10 +686,8 @@ casper.redbull.com
 cast.redbullaudioplayer.com
 catchyourseat.redbull.com
 caytoatvr01rb.redbull.com
-cbnx-api-aro-d.redbull.com
 cbnx-api-d.redbull.com
 cbnx-api-q.redbull.com
-cbnx-aro-d.redbull.com
 cbnx-d.redbull.com
 cbnx-q.redbull.com
 cbnx.redbull.com
@@ -729,7 +723,6 @@ ceiton.redbullmediahouse.com
 centralbilling-api-d.redbull.com
 centralbilling-api-q.redbull.com
 centralbilling-api.redbull.com
-centralbilling-d.app.redbull.com
 centralbilling-d.redbull.com
 centralbilling-q.redbull.com
 centralbilling.redbull.com
@@ -970,6 +963,8 @@ corp-ras-gateway-viennapublishing-split.redbull.com
 corp-ras-portal-gateway-phoenix-01.redbull.com
 corp-ras-portal-salzburg-q.redbull.com
 corp-ras-portal-vienna-01.redbull.com
+cosmos-mcp-staging.redbull.design
+cosmos-mcp.redbull.design
 cosmos.redbull.design
 coverage.redbull.com
 coveragedb-backoffice.redbull.com
@@ -1794,7 +1789,6 @@ goldi-cup.redbull.at
 golfclassic.wingsforlife.com
 goods-api-d.redbull.com
 goods-api-q.redbull.com
-goods-aro.redbull.com
 goods-d.redbull.com
 goods-q.redbull.com
 goods.redbull.com
@@ -2356,18 +2350,15 @@ ltta1.redbullxalps.com
 ltta2.redbullxalps.com
 ltta3.redbullxalps.com
 lttb0.redbullxalps.com
-lucid-aro-q.redbull.com
 lucid-d.redbull.com
 lucid-hf-q.redbull.com
 lucid-q.redbull.com
 lucid.redbull.com
 lumea.redbull.ro
 luminal.redbull.com
-lunch-api-aro-q.redbull.com
 lunch-api-d.redbull.com
 lunch-api-q.redbull.com
 lunch-api.redbull.com
-lunch-aro-q.redbull.com
 lunch-d.redbull.com
 lunch-q.redbull.com
 lunch.redbull.com
@@ -2925,7 +2916,6 @@ origin-canny-d.redbull.com
 origin-canny-q.redbull.com
 origin-canny.redbull.com
 origin-cdn.microsites.redbull.com
-origin-centralbilling-q.redbull.com
 origin-cloud-prod-redportpmdgp.redbull.com
 origin-cloud-stage-redportqmdgq.redbull.com
 origin-collaboration-gateway-q.redbull.com
@@ -3664,7 +3654,6 @@ rbspxml.redbull.com
 rbsv-d.redbulls.com
 rbtvbanner.redbull.com.gr
 rbtwo.redbullusa.com
-rbu-api-aro-q.redbull.com
 rbu-api-aro.redbull.com
 rbu-api-d.app.redbull.com
 rbu-api-d.redbull.com
@@ -4356,6 +4345,8 @@ soapbox.redbullusa.com
 soc-redportperpp.redbull.com
 soc-redportqerpq.redbull.com
 soccer-videostorage-eu-p.redbull.com
+soccer-videostorage-sea-p.redbull.com.redbull.com
+soccer-videostorage-us-p.redbull.com.redbull.com
 soccer-videostorage.redbull.com
 soccerportal.redbull.com
 soccerportal.redbulls.com
