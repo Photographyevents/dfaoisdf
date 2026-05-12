@@ -1,2 +1,1 @@
-cosmos-mcp.redbull.design
-cosmos-mcp-staging.redbull.design
+ar-companion.redbull.com
