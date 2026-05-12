@@ -292,6 +292,7 @@ apps.redbull.pl
 apps.redbullmobile.com
 apps.redbullxfighters.com
 apps.staging.redbullxfighters.com
+ar-companion.redbull.com
 ar-rb.redbull.com
 arcgis-manager.redbull.com
 arcgis.apps.redbull.com
@@ -300,6 +301,7 @@ are.review.wingsforlifeworldrun.com
 are.wingsforlifeworldrun.com
 argallery-bcone.redbull.com
 argallery-cd.redbull.com
+argocd.gw.redbullshop.com
 aro-origin-it-showroom-q.redbull.com
 art.redbullracing.com
 artifactory.app.redbull.com
@@ -1169,6 +1171,7 @@ dev.api.playershare.rbleipzig.com
 dev.awayportal.rbleipzig.com
 dev.b2b-approval-portal.rbleipzig.com
 dev.ecrbs.redbulls.com
+dev.gw.redbullshop.com
 dev.n8n.rbleipzig.com
 dev.playershare.rbleipzig.com
 dev.redbullaudiolibrary.com
@@ -1255,8 +1258,6 @@ dolly-workshop-aro-d.redbull.com
 domains-api-d.redbull.com
 domains-api-q.redbull.com
 domains-api.redbull.com
-domains-aro-d.redbull.com
-domains-aro-q.redbull.com
 domains-d.redbull.com
 domains-q.redbull.com
 domains.redbull.com
@@ -3654,24 +3655,12 @@ rbspxml.redbull.com
 rbsv-d.redbulls.com
 rbtvbanner.redbull.com.gr
 rbtwo.redbullusa.com
-rbu-api-aro.redbull.com
-rbu-api-d.app.redbull.com
 rbu-api-d.redbull.com
-rbu-api-hf-d.app.redbull.com
 rbu-api-hf-q.redbull.com
-rbu-api-hf.redbull.com
 rbu-api-q.redbull.com
 rbu-api.redbull.com
-rbu-aro-q.redbull.com
-rbu-aro.redbull.com
-rbu-d.app.redbull.com
 rbu-d.redbull.com
-rbu-hf-api-d.app.redbull.com
-rbu-hf-d.app.redbull.com
 rbu-hf-q.redbull.com
-rbu-hf.redbull.com
-rbu-old-q.redbull.com
-rbu-old.redbull.com
 rbu-q.redbull.com
 rbu.redbull.com
 rbussmvsg01.lan.us.redbull.com
@@ -4345,8 +4334,8 @@ soapbox.redbullusa.com
 soc-redportperpp.redbull.com
 soc-redportqerpq.redbull.com
 soccer-videostorage-eu-p.redbull.com
-soccer-videostorage-sea-p.redbull.com.redbull.com
-soccer-videostorage-us-p.redbull.com.redbull.com
+soccer-videostorage-sea-p.redbull.com
+soccer-videostorage-us-p.redbull.com
 soccer-videostorage.redbull.com
 soccerportal.redbull.com
 soccerportal.redbulls.com
@@ -4599,6 +4588,7 @@ stage.ecrbs.redbulls.com
 stage.flyingbulls.at
 stage.flyingbulls.com
 stage.getredbulletin.com
+stage.gw.redbullshop.com
 stage.kroger.ohmipromotion.redbull.com
 stage.microsites.redbull.com
 stage.rbgrc.redbull.com
@@ -4758,6 +4748,9 @@ stresiune.redbull.ro
 striker.redbull.com
 striker.redbull.se
 strikertoolkit.redbull.co.uk
+structure-hub-d.redbull.com
+structurehub-backend-d.redbull.com
+structurehub-frontend-d.redbull.com
 sts-d.fed.redbull.com
 sts-q.fed.redbull.com
 sts.fed.redbull.com
