@@ -1,0 +1,2 @@
+dev.api.tourshare.rbleipzig.com
+dev.tourshare.rbleipzig.com

@@ -1,1 +1,2 @@
-ar-companion.redbull.com
+dev.api.tourshare.rbleipzig.com
+dev.tourshare.rbleipzig.com
