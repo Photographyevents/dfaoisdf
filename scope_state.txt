@@ -1168,6 +1168,7 @@ dev.analytics.rbleipzig.com
 dev.api.analytics.rbleipzig.com
 dev.api.b2b-approval-portal.rbleipzig.com
 dev.api.playershare.rbleipzig.com
+dev.api.tourshare.rbleipzig.com
 dev.awayportal.rbleipzig.com
 dev.b2b-approval-portal.rbleipzig.com
 dev.ecrbs.redbulls.com
@@ -1177,7 +1178,9 @@ dev.playershare.rbleipzig.com
 dev.redbullaudiolibrary.com
 dev.redbulldistributioncompany.com
 dev.redbullrecords.com
+dev.redbullshop.com
 dev.redbullstratos.com
+dev.tourshare.rbleipzig.com
 dev.wiiings.com
 devel.redbull.com
 developer.redbull.com
@@ -2926,6 +2929,7 @@ origin-comms.redbull.com
 origin-culture-q.redbull.com
 origin-culture.redbull.com
 origin-d.mobile.redbull.jp
+origin-dev.redbullshop.com
 origin-di-redportdfsd.redbull.com
 origin-dms-d.redbull.com
 origin-dms-q.redbull.com
@@ -3006,6 +3010,7 @@ origin-stage-redportqngwq.redbull.com
 origin-stage-redportqpod.redbull.com
 origin-stage-redportqsboq.redbull.com
 origin-stage-redportqsrmq.redbull.com
+origin-stage.redbullshop.com
 origin-staging.launchpad.redbullusa.com
 origin-staging.services.redbullstratos.com
 origin-static.redbullshop.com.br
@@ -4603,6 +4608,7 @@ stage.redbullmotorsport.com
 stage.redbullmusic.com
 stage.redbullpicup.com
 stage.redbullpos.com
+stage.redbullshop.com
 stage.skinning.redbull.com
 stage.wiiings.com
 stage.worldofredbull.dk
