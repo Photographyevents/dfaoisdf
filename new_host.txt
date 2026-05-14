@@ -1,2 +1,4 @@
-dev.api.tourshare.rbleipzig.com
-dev.tourshare.rbleipzig.com
+www.sc-redbullny.tv
+support.redbullperformance.com
+api.leaderboard.redbull.com
+ingest.leaderboard.redbull.com
