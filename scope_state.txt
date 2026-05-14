@@ -235,6 +235,7 @@ api.flyingbulls.com
 api.gps-d.redbull.com
 api.gps-q.redbull.com
 api.gps.redbull.com
+api.leaderboard.redbull.com
 api.officeplan.redbull.com
 api.order.flugplan.redbull.com
 api.partners-q.redbull.com
@@ -1711,7 +1712,6 @@ friends.redbullmobile.at
 frill10570.redbull.com
 frontend.redbull.com
 frozenfalls.redbull.com
-frparrcvr01rb.redbull.com
 ftp-publishing.redbullmediahouse.com
 ftp.bulls-i.co.in
 ftp.ch.getredbulletin.com
@@ -2008,6 +2008,7 @@ infonet.staging.redbull.com
 infonet.us.wiiings.com
 infonet.wiiings.com
 infosystem.wingsforlifeworldrun.com
+ingest.leaderboard.redbull.com
 ingressos-staging.redbullbragantino.com
 ingressos.redbullbragantino.com
 ingressos.redbullbragantino.com.br
@@ -4788,6 +4789,7 @@ summer-edition.eu.canvases.redbull.com
 summeriscoming.redbullusa.com
 summerishere.redbullusa.com
 sunup.redbullusa.com
+support.redbullperformance.com
 surfcamp.redbull.nl
 sweetspotland-prod.redbull.com
 sync.redbull.co.za
@@ -5772,6 +5774,7 @@ www.rotorwings.at
 www.ru.devel.redbull.com
 www.sa.redbullpaperwings.com
 www.sampling.redbull.es
+www.sc-redbullny.tv
 www.se.devel.redbull.com
 www.sellredbull.com
 www.serveboard.redbull.com
