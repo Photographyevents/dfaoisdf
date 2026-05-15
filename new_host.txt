@@ -1,4 +1,3 @@
-www.sc-redbullny.tv
-support.redbullperformance.com
-api.leaderboard.redbull.com
-ingest.leaderboard.redbull.com
+talentplanning.redbull.com
+talentplanning-d.redbull.com
+talentplanning-q.redbull.com
