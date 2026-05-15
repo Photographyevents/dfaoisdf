@@ -261,7 +261,6 @@ apinew.redbullmobile.om
 apo-test.redbullcontentpool.com
 app.esim.redbullmobile.com
 app.redbull.com
-app.redbullbasement.com
 app.review.wingsforlifeworldrun.com
 app.rideliketony.redbull.it
 app.teams.redbull.racing
@@ -4805,6 +4804,9 @@ tabs.redbull.com
 take-off.redbull.com
 takeflight.redbull.com
 talentops.redbull.com
+talentplanning-d.redbull.com
+talentplanning-q.redbull.com
+talentplanning.redbull.com
 talentpool-external.redbull.com
 talentpool-pitching.redbull.com
 talentpool.redbull.com
