@@ -261,6 +261,7 @@ apinew.redbullmobile.om
 apo-test.redbullcontentpool.com
 app.esim.redbullmobile.com
 app.redbull.com
+app.redbullbasement.com
 app.review.wingsforlifeworldrun.com
 app.rideliketony.redbull.it
 app.teams.redbull.racing
@@ -301,7 +302,6 @@ are.review.wingsforlifeworldrun.com
 are.wingsforlifeworldrun.com
 argallery-bcone.redbull.com
 argallery-cd.redbull.com
-argocd.gw.redbullshop.com
 aro-origin-it-showroom-q.redbull.com
 art.redbullracing.com
 artifactory.app.redbull.com
@@ -1172,7 +1172,6 @@ dev.api.tourshare.rbleipzig.com
 dev.awayportal.rbleipzig.com
 dev.b2b-approval-portal.rbleipzig.com
 dev.ecrbs.redbulls.com
-dev.gw.redbullshop.com
 dev.n8n.rbleipzig.com
 dev.playershare.rbleipzig.com
 dev.redbullaudiolibrary.com
@@ -3074,6 +3073,7 @@ page-configs.redbull.com
 pageflow.redbull.com
 pages.redbullrecords.com
 pam-upload-status.redbull.com
+panel-management.redbull.com
 panorama-d.redbull.com
 panorama-q.redbull.com
 panorama.redbull.com
@@ -3995,6 +3995,7 @@ redbulltrackclubpakistan.com
 redbullu.com
 redbulluat.bulls-i.co.in
 redbulluatapi.bulls-i.co.in
+redbulluatfinal.bulls-i.co.in
 redbullunforeseenla.redbull.com
 redbullunforeseenquiz.redbull.com
 redbullusa.com
@@ -4593,7 +4594,6 @@ stage.ecrbs.redbulls.com
 stage.flyingbulls.at
 stage.flyingbulls.com
 stage.getredbulletin.com
-stage.gw.redbullshop.com
 stage.kroger.ohmipromotion.redbull.com
 stage.microsites.redbull.com
 stage.rbgrc.redbull.com
