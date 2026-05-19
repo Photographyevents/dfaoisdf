@@ -371,6 +371,7 @@ atlas-staging.redbull.com
 atlas.redbull.com
 atlaslatam-staging.redbull.com
 atlaslatam.redbull.com
+atlassian-bounces.redbull.com
 atlassian-mcp-gateway-d.redbull.com
 atlassian-mcp-gateway-q.redbull.com
 atrecord.redbull.com
@@ -3110,6 +3111,7 @@ participantgalleryapp-api.redbull.com
 participantgalleryapp-staging.redbull.com
 participantgalleryapp.redbull.com
 participate.redbull.com
+participate.redbullbragantino.com
 partner.redbull.com
 partner.redbullairrace.com
 partner.redbullmediahouse.com
