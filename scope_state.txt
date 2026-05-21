@@ -235,6 +235,7 @@ api.flyingbulls.com
 api.gps-d.redbull.com
 api.gps-q.redbull.com
 api.gps.redbull.com
+api.leaderboard-design.redbull.com
 api.leaderboard.redbull.com
 api.officeplan.redbull.com
 api.order.flugplan.redbull.com
@@ -254,6 +255,7 @@ api.servus-media-staging.redbull.com
 api.servus-media.redbull.com
 api.tetris-q.redbull.com
 api.tetris.redbull.com
+api.tourshare.rbleipzig.com
 api.wingforms.redbull.com
 apibeta.redbullaudiolibrary.com
 apidev.redbullmobile.om
@@ -2037,6 +2039,7 @@ infonet.staging.redbull.com
 infonet.us.wiiings.com
 infonet.wiiings.com
 infosystem.wingsforlifeworldrun.com
+ingest.leaderboard-design.redbull.com
 ingest.leaderboard.redbull.com
 ingressos-staging.redbullbragantino.com
 ingressos.redbullbragantino.com
@@ -2242,6 +2245,7 @@ lcd-api.redbull.com
 leaderboard-admin-qa.redbull.com
 leaderboard-admin-staging.redbull.com
 leaderboard-admin.redbull.com
+leaderboard-design.redbull.com
 leaderboard-qa.redbull.com
 leaderboard-staging.redbull.com
 leaderboard.redbull.com
@@ -3253,6 +3257,7 @@ pm.redbull.com
 pma.redbull.com
 poapsa-q.redbull.com
 poc-cannylabs.redbull.com
+poc-garage-monitoring.redbull.com
 poc-minutemanager.redbull.com
 poc-researchdatabase-api.redbull.com
 poc-researchdatabase.redbull.com
@@ -4953,6 +4958,7 @@ tourbus.redbull.ch
 tourbus.redbull.com
 tourbus.redbull.es
 tourbus.redbull.lt
+tourshare.rbleipzig.com
 trabajaconnosotros.redbull.es
 trackfinity.redbull.com
 tracking-stage.redtech.redbull.com
