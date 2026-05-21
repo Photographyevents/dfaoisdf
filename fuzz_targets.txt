@@ -1,0 +1,2 @@
+api.tourshare.rbleipzig.com
+api.leaderboard-design.redbull.com
