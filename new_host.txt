@@ -1,5 +1,2 @@
-tourshare.rbleipzig.com
-api.tourshare.rbleipzig.com
-ingest.leaderboard-design.redbull.com
-leaderboard-design.redbull.com
-api.leaderboard-design.redbull.com
+onthehouse-d.redbull.com
+onthehouse-q.redbull.com
