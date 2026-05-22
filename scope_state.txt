@@ -2903,6 +2903,8 @@ onpremiserecruiting-staging.redbull.com
 onpremiserecruiting.redbull.com
 onpremisesurvey-staging.redbull.com
 onpremisesurvey.redbull.com
+onthehouse-d.redbull.com
+onthehouse-q.redbull.com
 ontrack-q.redbull.com
 ontrack.redbull.com
 openmedia-staging.redbullmediahouse.com
