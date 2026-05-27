@@ -132,8 +132,6 @@ affiliates.redbullcollection.com
 afterparty.redbull.com
 agreements-energy-q.redbull.com
 agreements-energy.redbull.com
-agreements-organics-q.redbull.com
-agreements-organics.redbull.com
 agreements-q.redbull.com
 agreements-tradicional-q.redbull.com
 agreements-tradicional.redbull.com
