@@ -1,2 +1,6 @@
-onthehouse-d.redbull.com
-onthehouse-q.redbull.com
+origin-stage-redportqsbq.redbull.com
+origin-prod-redportpsbp.redbull.com
+origin-prod-redportpgtsp.redbull.com
+origin-stage-redportqgtsq.redbull.com
+origin-prod-redportptrp.redbull.com
+origin-stage-redportqtrq.redbull.com
