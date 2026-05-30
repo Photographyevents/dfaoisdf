@@ -1139,6 +1139,7 @@ dcp-dif-admin-api.redbull.com
 ddrive.redbull.com
 de.redbulletin.com
 de.redbullsampling.com
+deductlink-d.redbull.com
 deepnote.redbull.com
 delej-vpn01.redbull.com
 delejnavr01rb.redbull.com
