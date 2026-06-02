@@ -238,7 +238,7 @@ api.flyingbulls.com
 api.gps-d.redbull.com
 api.gps-q.redbull.com
 api.gps.redbull.com
-api.leaderboard-design.redbull.com
+api.leaderboard-q.redbull.com
 api.leaderboard.redbull.com
 api.officeplan.redbull.com
 api.order.flugplan.redbull.com
@@ -1776,6 +1776,7 @@ ftp.wingsforlifestore.com
 ftp.wingsforstudents.be
 ftp01-akamai.redbullmediahouse.com
 ftp02.redbullmediahouse.com
+fullsend.redbullracing.com
 fussballschule.dierotenbullen.com
 fussballschule.rbleipzig.com
 future.redbullmusicacademy.com
@@ -2042,7 +2043,7 @@ infonet.staging.redbull.com
 infonet.us.wiiings.com
 infonet.wiiings.com
 infosystem.wingsforlifeworldrun.com
-ingest.leaderboard-design.redbull.com
+ingest.leaderboard-q.redbull.com
 ingest.leaderboard.redbull.com
 ingressos-staging.redbullbragantino.com
 ingressos.redbullbragantino.com
@@ -2248,7 +2249,7 @@ lcd-api.redbull.com
 leaderboard-admin-qa.redbull.com
 leaderboard-admin-staging.redbull.com
 leaderboard-admin.redbull.com
-leaderboard-design.redbull.com
+leaderboard-q.redbull.com
 leaderboard-qa.redbull.com
 leaderboard-staging.redbull.com
 leaderboard.redbull.com
@@ -2908,6 +2909,7 @@ onpremisesurvey-staging.redbull.com
 onpremisesurvey.redbull.com
 onthehouse-d.redbull.com
 onthehouse-q.redbull.com
+onthehouse.redbull.com
 ontrack-q.redbull.com
 ontrack.redbull.com
 openmedia-staging.redbullmediahouse.com
@@ -3019,6 +3021,7 @@ origin-prod-redportpsbop.redbull.com
 origin-prod-redportpsbp.redbull.com
 origin-prod-redportpsrmp.redbull.com
 origin-prod-redportptrp.redbull.com
+origin-prod.redbullshop.com
 origin-profile-q.redbull.com
 origin-profile.redbull.com
 origin-py.microsites.redbull.com
@@ -3406,6 +3409,7 @@ prod.ecrbs.redbulls.com
 prod.flyingbulls.at
 prod.flyingbulls.com
 prod.ninja.redbull.com
+prod.redbullshop.com
 production-delivery.newcastleredbulls.com
 production-delivery.rbomiya.com
 production-delivery.redbull.com
