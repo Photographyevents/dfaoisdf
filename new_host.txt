@@ -1,1 +1,4 @@
-deductlink-d.redbull.com
+onthehouse.redbull.com
+ingest.leaderboard-q.redbull.com
+api.leaderboard-q.redbull.com
+leaderboard-q.redbull.com
