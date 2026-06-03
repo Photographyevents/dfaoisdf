@@ -376,7 +376,7 @@ atlas-staging.redbull.com
 atlas.redbull.com
 atlaslatam-staging.redbull.com
 atlaslatam.redbull.com
-atlassian-bounces.redbull.com
+atlassian-bounces.teamwork.redbull.com
 atlassian-mcp-gateway-d.redbull.com
 atlassian-mcp-gateway-q.redbull.com
 atrecord.redbull.com
@@ -515,6 +515,7 @@ bifrost-staging.redbull.com
 bike.redbull.com
 billagface.redbull.sk
 bio.redbullsalzburg.at
+biometria.redbullbragantino.com
 bireports-api-d.redbull.com
 bireports-api-q.redbull.com
 bireports-api.redbull.com
