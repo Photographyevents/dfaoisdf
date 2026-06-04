@@ -378,6 +378,7 @@ atlaslatam-staging.redbull.com
 atlaslatam.redbull.com
 atlassian-bounces.teamwork.redbull.com
 atlassian-mcp-gateway-d.redbull.com
+atlassian-mcp-gateway-p.redbull.com
 atlassian-mcp-gateway-q.redbull.com
 atrecord.redbull.com
 atszgco-lsvpn.redbull.com
@@ -1134,6 +1135,8 @@ db1.redbullstratos.com
 db2.redbullstratos.com
 dccheck-vie-q.redbull.com
 dccheck-vie.redbull.com
+dcp-data-provisioning-inventory-q.redbull.com
+dcp-data-provisioning-inventory.redbull.com
 dcp-dif-admin-api-d.redbull.com
 dcp-dif-admin-api-q.redbull.com
 dcp-dif-admin-api.redbull.com
@@ -1859,6 +1862,7 @@ greetings.redbull.jp
 grip-freigabe.redbull.com
 grip.redbull.com
 grow.wingsforlifeworldrun.com
+growth-finder.redbull.com
 gs-vpn01.redbull.com
 guest-management-q.dierotenbullen.com
 guest-management-q.rbleipzig.com
