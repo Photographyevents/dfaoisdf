@@ -460,6 +460,7 @@ backend-q.otng.redbull.com
 backend-test.redbullsalzburg.at
 backend.otng.redbull.com
 backend.redbullsalzburg.at
+backoffice-dev.redbullshop.com
 backoffice-patracking-d.redbull.com
 backoffice-patracking-q.redbull.com
 backoffice-patracking.redbull.com
@@ -467,7 +468,9 @@ backoffice-q.rbng.redbull.com
 backoffice-soet-d.redbull.com
 backoffice-soet-q.redbull.com
 backoffice-soet.redbull.com
+backoffice-stage.redbullshop.com
 backoffice.rbng.redbull.com
+backoffice.redbullshop.com
 backstage-staging.redbull.com
 backstage.redbull.com
 backtoschool.redbullusa.com
@@ -1207,12 +1210,14 @@ dev-login.redbullmediahouse.com
 dev.analytics.rbleipzig.com
 dev.api.analytics.rbleipzig.com
 dev.api.b2b-approval-portal.rbleipzig.com
+dev.api.ofc.rbleipzig.com
 dev.api.playershare.rbleipzig.com
 dev.api.tourshare.rbleipzig.com
 dev.awayportal.rbleipzig.com
 dev.b2b-approval-portal.rbleipzig.com
 dev.ecrbs.redbulls.com
 dev.n8n.rbleipzig.com
+dev.ofc.rbleipzig.com
 dev.playershare.rbleipzig.com
 dev.redbullaudiolibrary.com
 dev.redbulldistributioncompany.com
@@ -2660,6 +2665,9 @@ mktlibs-aro-d.redbull.com
 mktlibs-aro-s.redbull.com
 ml-q.redbull.com
 ml.redbull.com
+mlflow-d.redbull.com
+mlflow-q.redbull.com
+mlflow.redbull.com
 mmas-upload.redbull.com
 mmas.redbull.com
 mmd-d.redbull.com
@@ -2791,6 +2799,8 @@ ndes.redbullsalzburg.at
 network.redbullmediahouse.com
 new-goods-d.redbull.com
 new-goods-q.redbull.com
+new.api.ofc.rbleipzig.com
+new.ofc.rbleipzig.com
 new.redbullxfighters.com
 newcastleredbulls.co.uk
 newcastleredbulls.com
@@ -2955,6 +2965,9 @@ origin-analytics-hm-q.redbull.com
 origin-analytics-hm.redbull.com
 origin-analytics-q.redbull.com
 origin-analytics.redbull.com
+origin-backoffice-dev.redbullshop.com
+origin-backoffice-prod.redbullshop.com
+origin-backoffice-stage.redbullshop.com
 origin-beta.redbull.com
 origin-bpt-q.redbull.com
 origin-bpt.redbull.com
