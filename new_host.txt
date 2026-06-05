@@ -1,1 +1,4 @@
-atlassian-mcp-gateway-p.redbull.com
+dev.ofc.rbleipzig.com
+dev.api.ofc.rbleipzig.com
+new.api.ofc.rbleipzig.com
+new.ofc.rbleipzig.com
