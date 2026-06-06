@@ -130,6 +130,7 @@ ae-vpn01.redbull.com
 aedxbdfvr01rb.redbull.com
 affiliates.redbullcollection.com
 afterparty.redbull.com
+agents.redbull.com
 agreements-energy-q.redbull.com
 agreements-energy-rh-p.redbull.com
 agreements-energy-rh-q.redbull.com
