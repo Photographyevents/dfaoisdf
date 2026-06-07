@@ -1,4 +1,2 @@
-dev.ofc.rbleipzig.com
-dev.api.ofc.rbleipzig.com
-new.api.ofc.rbleipzig.com
-new.ofc.rbleipzig.com
+dev.flashzone.rbleipzig.com
+dev.api.flashzone.rbleipzig.com
