@@ -1211,12 +1211,14 @@ dev-login.redbullmediahouse.com
 dev.analytics.rbleipzig.com
 dev.api.analytics.rbleipzig.com
 dev.api.b2b-approval-portal.rbleipzig.com
+dev.api.flashzone.rbleipzig.com
 dev.api.ofc.rbleipzig.com
 dev.api.playershare.rbleipzig.com
 dev.api.tourshare.rbleipzig.com
 dev.awayportal.rbleipzig.com
 dev.b2b-approval-portal.rbleipzig.com
 dev.ecrbs.redbulls.com
+dev.flashzone.rbleipzig.com
 dev.n8n.rbleipzig.com
 dev.ofc.rbleipzig.com
 dev.playershare.rbleipzig.com
