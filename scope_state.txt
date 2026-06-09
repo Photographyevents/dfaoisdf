@@ -381,6 +381,7 @@ atlassian-bounces.teamwork.redbull.com
 atlassian-mcp-gateway-d.redbull.com
 atlassian-mcp-gateway-p.redbull.com
 atlassian-mcp-gateway-q.redbull.com
+atlassian-mcp-gateway.redbull.com
 atrecord.redbull.com
 atszgco-lsvpn.redbull.com
 atszgcovr41rb.redbull.com
@@ -2067,6 +2068,7 @@ initiativesform-q.redbull.com
 initiativesform.redbull.com
 innovation-playground.redbull.com
 innvision-d.redbull.com
+innvision-q.redbull.com
 innvision.redbull.com
 insight.redbullperfectstore.com
 insights.redbullperfectstore.com
@@ -2501,7 +2503,6 @@ mail.redbullrecords.com
 mail.redbullrecordsshop.com
 mail.redbullskateboarding.com
 mail.redbullsnowscrapers.com
-mail.redbullstudio.co.za
 mail.redbullstudios.com
 mail.redbullsurfing.com
 mail.redbullusa.com
@@ -5829,7 +5830,6 @@ www.redbullspinitloud.com
 www.redbullsports.com
 www.redbullstratos.com
 www.redbullstreetstyle.com
-www.redbullstudio.co.za
 www.redbullstudios.com
 www.redbullsugarfree.com
 www.redbullsurf.com
