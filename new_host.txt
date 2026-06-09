@@ -1,2 +1,1 @@
-dev.flashzone.rbleipzig.com
-dev.api.flashzone.rbleipzig.com
+atlassian-mcp-gateway.redbull.com
