@@ -1,1 +1,2 @@
-atlassian-mcp-gateway.redbull.com
+www-new.redbullsalzburg.at
+staging-new.redbullsalzburg.at
