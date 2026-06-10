@@ -387,6 +387,8 @@ atszgco-lsvpn.redbull.com
 atszgcovr41rb.redbull.com
 atszgmhvr01rb.redbull.com
 atviesbc01ipa.redbull.com
+atviesbceu01.redbull.com
+atviesbceu02.redbull.com
 atwork-app-q.redbull.com
 atwork-app.redbull.com
 atwork-audit-q.redbull.com
@@ -4249,6 +4251,9 @@ science.old.wingsforlife.com
 science.wingsforlife.com
 science.wingsforlife.com.wingsforlife.com
 scientificmeeting.wingsforlife.com
+scopify-aro.redbull.com
+scopify-d.redbull.com
+scopify-q.redbull.com
 scopify.redbull.com
 score.redbullusa.com
 scorestageing.redbullusa.com
@@ -4702,6 +4707,7 @@ staging-delivery.redbullsimracing.com
 staging-delivery.redbullxalps.com
 staging-editions.redbull.com.tr
 staging-eventgames.redbull.com
+staging-new.redbullsalzburg.at
 staging-preview.newcastleredbulls.com
 staging-preview.rbomiya.com
 staging-preview.redbull.com
@@ -5328,6 +5334,7 @@ www-new-juniorteam.redbull.com
 www-new-rookiescup.redbull.com
 www-new.redbulljuniorteam.com
 www-new.redbullrookiescup.com
+www-new.redbullsalzburg.at
 www-new.redbullxalps.com
 www-old.redbullrookiescup.com
 www-preprod.redbull.tv
