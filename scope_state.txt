@@ -686,6 +686,7 @@ canny-q.redbull.com
 canny.redbull.com
 cansareout.redbullmea.com
 cansareoutar.redbullmea.com
+canva.redbull.com
 canyoumakeit.redbull.com
 capacetedocaca.redbull.com.br
 capetown.redbullstudios.com
@@ -3454,6 +3455,7 @@ production-preview.redbullpowertrains.com
 production-preview.redbullracing.com
 production-preview.redbullsimracing.com
 production-preview.redbullxalps.com
+productionpartnerportal-design.redbull.com
 productionpartnerportal-staging.redbull.com
 productionpartnerportal.redbull.com
 produktdatenbank.redbull.com
@@ -5374,6 +5376,7 @@ www.bulls-i.co.in
 www.bulls-lane.at
 www.bullscorner.at
 www.campingredbullring.com
+www.canva.redbull.com
 www.canyoumakeit.redbull.com
 www.car.devel.redbull.com
 www.cc.redbull.hu
