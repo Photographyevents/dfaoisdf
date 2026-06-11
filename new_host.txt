@@ -1,2 +1,3 @@
-www-new.redbullsalzburg.at
-staging-new.redbullsalzburg.at
+www.canva.redbull.com
+canva.redbull.com
+productionpartnerportal-design.redbull.com
