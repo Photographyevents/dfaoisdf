@@ -1465,6 +1465,7 @@ emi.redbull.com
 emp-import-modal-d.redbull.com
 emp-import-modal-q.redbull.com
 emp-import-modal.redbull.com
+employee-services.rbleipzig.com
 empsvcs-fushq-q.redbull.com
 en.redbull.com
 en.redbulletin.com
@@ -1874,7 +1875,6 @@ greetings.redbull.jp
 grip-freigabe.redbull.com
 grip.redbull.com
 grow.wingsforlifeworldrun.com
-growth-finder.redbull.com
 gs-vpn01.redbull.com
 guest-management-q.dierotenbullen.com
 guest-management-q.rbleipzig.com
@@ -4427,7 +4427,6 @@ soccer-videostorage-us-p.redbull.com
 soccer-videostorage.redbull.com
 soccerportal.redbull.com
 soccerportal.redbulls.com
-social-sharing.redbull.com
 social.rbleipzig.com
 social.redbull.jp
 socialcampaigns.redbull.com
