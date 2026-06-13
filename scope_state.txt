@@ -878,6 +878,7 @@ conduit.redbull.com
 config-int-q.devel.redbull.com
 config-int.devel.redbull.com
 config.app.redbull.com
+connect.policy.redbullmobile.com
 connect.redbullusa.com
 connectedcooler-mobile-api-q.redbull.com
 connectedcooler-mobile-api.redbull.com
@@ -5041,6 +5042,7 @@ turntable.redbull.tv
 tv-api-qa.redbull.com
 tv-api-staging.redbull.com
 tv-api.redbull.com
+tv-player.redbull.tv
 tv.redbullmobile.at
 tv.redtech-at.redbull.com
 tv.redtech-at.redbull.com.redbull.com
