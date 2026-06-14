@@ -517,9 +517,6 @@ bi-landingzone-d.redbull.com
 bi-landingzone-q.redbull.com
 bi-landingzone.redbull.com
 bib.wingsforlifeworldrun.com
-bifrost-portal-staging.redbull.com
-bifrost-staging-openwebui.redbull.com
-bifrost-staging.redbull.com
 bike.redbull.com
 billagface.redbull.sk
 bio.redbullsalzburg.at
