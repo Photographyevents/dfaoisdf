@@ -1873,6 +1873,8 @@ greetings.redbull.jp
 grip-freigabe.redbull.com
 grip.redbull.com
 grow.wingsforlifeworldrun.com
+growthfinder-q.redbull.com
+growthfinder.redbull.com.redbull.com
 gs-vpn01.redbull.com
 guest-management-q.dierotenbullen.com
 guest-management-q.rbleipzig.com
