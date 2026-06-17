@@ -2170,6 +2170,7 @@ jira-headless-q.redbullmediahouse.com
 jira-headless.redbullmediahouse.com
 jira-old.redbull.com
 jira-q.redbullmediahouse.com
+jira.connect.redbullmobile.com
 jira.redbull.com
 jira.redbullmediahouse.com
 jmc-d-jobs.redbull.com
@@ -2793,7 +2794,6 @@ myexperience.redbull.com
 mymediaworld.redbull.com
 mymobile-q.redbull.com
 mymobile.redbull.com
-mypage.rbomiya.com
 mysql.redbullflugtag.at
 mysterypack.redbull.com
 mywings.redbull.com
