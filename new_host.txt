@@ -1,2 +1,1 @@
-tv-player.redbull.tv
-connect.policy.redbullmobile.com
+jira.connect.redbullmobile.com
