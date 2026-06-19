@@ -1,1 +1,7 @@
-jira.connect.redbullmobile.com
+b2b-q.redbullshop.com
+assetmenu-d.redbull.com
+assetmenu-q.redbull.com
+assetmenu.redbull.com
+rm.redbullmediahouse.com
+b2b.redbullshop.com
+k4-overview02.redbull.com
