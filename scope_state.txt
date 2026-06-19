@@ -330,6 +330,9 @@ ashley.redbullusa.com
 ashleyfiolek.redbullna.com
 asm.redbull.com
 asmp.redbullmobile.at
+assetmenu-d.redbull.com
+assetmenu-q.redbull.com
+assetmenu.redbull.com
 assets.clawgameus.redbull.com
 assets.ninja.redbull.com
 assets.prod.ninja.redbull.com
@@ -451,12 +454,15 @@ avp.redbullmediahouse.com
 awayportal.rbleipzig.com
 awolnation.redbullna.com
 b2b-approval-portal.rbleipzig.com
+b2b-d.redbullshop.com
 b2b-q.redbull.com
+b2b-q.redbullshop.com
 b2b-q.vandeer-redbull-sports.com
 b2b-tickets.rbleipzig.com
 b2b.redbull.com
 b2b.redbulletin.com
 b2b.redbullmobile.com
+b2b.redbullshop.com
 b2b.vandeer-redbull-sports.com
 b2b.wingsforlifeworldrun.com
 backend-eventgames.redbull.com
@@ -2207,6 +2213,7 @@ k4-02-overview.vie.redbullmediahouse.com
 k4-1.vie.redbullmediahouse.com
 k4-2.vie.redbullmediahouse.com
 k4-overview01.redbull.com
+k4-overview02.redbull.com
 k4-remote.redbull.com
 k4-test-overview.vie.redbullmediahouse.com
 k4.redbulletin.at
@@ -3296,6 +3303,7 @@ pm.redbull.com
 pma.redbull.com
 poapsa-q.redbull.com
 poc-cannylabs.redbull.com
+poc-dashboard.redbull.com
 poc-garage-monitoring.redbull.com
 poc-minutemanager.redbull.com
 poc-researchdatabase-api.redbull.com
@@ -4168,6 +4176,7 @@ rm-staging.redbull.com
 rm.redbull.com
 rm.redbull.tv
 rm.redbullgmoinfo.com
+rm.redbullmediahouse.com
 rm.redbullshop.com
 rma-instant-dispatcher-staging.redbull.com
 rma-instant-dispatcher.redbull.com
