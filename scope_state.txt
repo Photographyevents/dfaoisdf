@@ -3727,6 +3727,7 @@ rbomiya.jp
 rbparload-d.redbull.com
 rbparload-q.redbull.com
 rbparload.redbull.com
+rbpl-devpayments.redbull.com
 rbpl-payments.redbull.com
 rbponboarding-admin.redbull.com
 rbponboarding.redbull.com
