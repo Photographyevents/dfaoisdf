@@ -878,6 +878,9 @@ concur-static-q.redbull.com
 concur-static.redbull.com
 conduit-staging.redbull.com
 conduit.redbull.com
+config-api-dev.redbull.com
+config-api-qa.redbull.com
+config-api.redbull.com
 config-int-q.devel.redbull.com
 config-int.devel.redbull.com
 config.app.redbull.com
@@ -1624,6 +1627,9 @@ fadma-ui-d.redbull.com
 fadma-ui-q.redbull.com
 fah4ph3ty57qe4jqyd4e4vx76v4pycbq.redbullbatalladelosgallos.com
 fahrschule.redbull.at
+fan-api-dev.redbull.com
+fan-api-qa.redbull.com
+fan-api.redbull.com
 fan.redbull.jp
 fanerlebnisse.dierotenbullen.com
 fanexperience.rbleipzig.com
@@ -2612,6 +2618,7 @@ mepp-admin-d.redbull.com
 mepp-admin-hf-q.redbull.com
 mepp-admin-q.redbull.com
 mepp-admin.redbull.com
+mepp-api-d.redbull.com
 mepp-api-q.redbull.com
 mepp-api.redbull.com
 meppconnect-d.redbull.com
@@ -4773,7 +4780,6 @@ star-cert.kuiper-int.redbull.com
 star-cert.kuiper.redbull.com
 star-cert.sap.redbull.com
 star-cert.sapcloud.redbull.com
-static-cartoons.redbull.com
 static-cosmos.redbull.com
 static-resources.redbull.tv
 static-staging.redbullshop.com.br
