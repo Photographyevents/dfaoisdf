@@ -1061,6 +1061,7 @@ ct-prod.redbull.com
 ct-prod.redbullracing.com
 ct-sand.redbull.com
 ct-sand.redbullracing.com
+cuelive.rbleipzig.com
 culture-aro-q.redbull.com
 culture-aro.redbull.com
 culture-d.app.redbull.com
@@ -1693,6 +1694,7 @@ file-proxy-api.redbull.com
 file-upload-api-d.redbull.com
 file-upload-api-q.redbull.com
 file-upload-api.redbull.com
+filemaker.redbull.com
 files-design.redbullmediapitch.com
 files-production.redbullmediapitch.com
 files-staging.redbullmediapitch.com
@@ -1884,9 +1886,8 @@ greeting-redbull.greeting-redbull.com
 greetings.redbull.jp
 grip-freigabe.redbull.com
 grip.redbull.com
-grow.wingsforlifeworldrun.com
 growthfinder-q.redbull.com
-growthfinder.redbull.com.redbull.com
+growthfinder.redbull.com
 gs-vpn01.redbull.com
 guest-management-q.dierotenbullen.com
 guest-management-q.rbleipzig.com
@@ -2218,6 +2219,7 @@ k4-02-contentportal.vie.redbullmediahouse.com
 k4-02-overview.vie.redbullmediahouse.com
 k4-1.vie.redbullmediahouse.com
 k4-2.vie.redbullmediahouse.com
+k4-contentportal01.redbull.com
 k4-overview01.redbull.com
 k4-overview02.redbull.com
 k4-remote.redbull.com
