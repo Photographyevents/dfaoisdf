@@ -330,6 +330,8 @@ ashley.redbullusa.com
 ashleyfiolek.redbullna.com
 asm.redbull.com
 asmp.redbullmobile.at
+assessment-platform-q.redbull.com
+assessment-platform.redbull.com
 assetmenu-d.redbull.com
 assetmenu-q.redbull.com
 assetmenu.redbull.com
