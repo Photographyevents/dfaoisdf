@@ -1,4 +1,2 @@
-cuelive.rbleipzig.com
-k4-contentportal01.redbull.com
-filemaker.redbull.com
-growthfinder.redbull.com
+assessment-platform-q.redbull.com
+assessment-platform.redbull.com
