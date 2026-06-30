@@ -119,7 +119,6 @@ admin.access.redbull.ch
 admin.flyingbulls.at
 admin.redbullmobile.com
 admin.redbullmusicacademy.com
-admin.redbullsailingacademy.com
 adminconnectnet.redbullusa.com
 adops.redbullmediahouse.com
 adproxy-qa.redbull.com
@@ -253,7 +252,6 @@ api.redbullaudiolibrary.com
 api.redbullmediapitch.com
 api.redbullmobile.at
 api.redbullmobile.om
-api.redbullsailingacademy.com
 api.secretcan.redbull.com
 api.servus-media-staging.redbull.com
 api.servus-media.redbull.com
@@ -3618,7 +3616,6 @@ qrcode-d.redbull.com
 qrcode-q.redbull.com
 qrcode.redbull.ch
 qrcode.redbull.com
-qreports.redbull.com
 qrtool.redbull.com
 qs-shop.redbull.com
 qs.redbullshop.com
@@ -5882,7 +5879,6 @@ www.rotorwings.at
 www.ru.devel.redbull.com
 www.sa.redbullpaperwings.com
 www.sampling.redbull.es
-www.sc-redbullny.tv
 www.se.devel.redbull.com
 www.sellredbull.com
 www.serveboard.redbull.com
