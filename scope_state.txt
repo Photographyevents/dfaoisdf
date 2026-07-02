@@ -336,6 +336,7 @@ assetmenu.redbull.com
 assets.clawgameus.redbull.com
 assets.ninja.redbull.com
 assets.prod.ninja.redbull.com
+assets.rbleipzig.com
 assets.redbullshop.com
 assetsmarket-staging.redbull.com
 assetsmarket.redbull.com
@@ -439,7 +440,6 @@ authenticator-d.redbull.com
 authenticator-q.redbull.com
 authenticator.auth-d.redbull.com
 authenticator.auth-q.redbull.com
-authenticator.auth.redbull.com
 authenticator.redbull.com
 author-bkc.redbulls.com
 author-fcl.redbulls.com
@@ -935,7 +935,6 @@ contentrbm.redbulls.com
 contest-admin.redbull.com
 contest-analytics.redbull.com
 contest-api.redbull.com
-contest-partners.redbull.com
 contest.konkurslotowredbull.pl
 continuethezeroexcuseschallenge.redbull.com
 continuethezeromissedworkoutschallenge.redbull.com
@@ -1342,7 +1341,6 @@ dt.redbullshop.com
 dtp-admin.redbull.com
 dtp-analytics.redbull.com
 dtp-api.redbull.com
-dtp-partners.redbull.com
 dtv-dev-1.redbull.tv
 dtv-dev-2.redbull.tv
 dtv-dev-3.redbull.tv
@@ -2440,7 +2438,6 @@ lunch-q.redbull.com
 lunch.redbull.com
 lv.redbullna.com
 lyncdiscover.bullidikidz.com
-lyncdiscover.redbull.com
 lyncdiscover.redbullprint.com
 lyncdiscover.redbullrecords.com
 lyncdiscover.redbulls.com
@@ -3227,6 +3224,7 @@ pcsurvey.redbull.com
 pda.redbullgraduate.com
 pda.redbullgraduateprogram.com
 peak-d.redbull.com
+peak-q.redbull.com
 peak.redbull.com
 ped-staging.redbull.com
 ped.redbull.com
@@ -3311,6 +3309,7 @@ pm-bounces.zerochallenge.redbull.com
 pm.redbull.com
 pma.redbull.com
 poapsa-q.redbull.com
+poc-agenticdeployment.redbull.com
 poc-cannylabs.redbull.com
 poc-dashboard.redbull.com
 poc-garage-monitoring.redbull.com
@@ -3906,8 +3905,6 @@ redbullaudioplayer.com
 redbullb2b.com
 redbullbargames.at
 redbullbasement.com
-redbullbasementworldfinalhub.com
-redbullbasementworldfinalisthub.com
 redbullbatalladelosgallos.com
 redbullbcone.com
 redbullbconenewsroom.com
@@ -4122,6 +4119,7 @@ redwasp.app.redbull.com
 refer.redbullgraduateprogram.com
 reimbursement-q.redbull.com
 reimbursement.redbull.com
+rem-leap.redbull.com
 rema-d.redbull.com
 rema-psb-q.redbull.com
 rema-psb.redbull.com
@@ -4354,7 +4352,6 @@ simabrscert.redbullring.com
 simapp.redbull.com
 simcert.redbullring.com
 simrep.redbull.com
-sip.redbull.com
 sip.redbullprint.com
 sip.redbullrecords.com
 sip.redbulls.com
@@ -4569,13 +4566,11 @@ stage-cms.redbullrookiescup.com
 stage-collegeblock.redbull.at
 stage-contest-admin.redbull.com
 stage-contest-api.redbull.com
-stage-contest-partners.redbull.com
 stage-cooperwebbmx.redbull.com
 stage-cro.redbull.com
 stage-daily.redbullmusicacademy.com
 stage-dtp-admin.redbull.com
 stage-dtp-api.redbull.com
-stage-dtp-partners.redbull.com
 stage-entradavip.redbull.com
 stage-epic.redbull.com
 stage-ers-database.redbull.com
@@ -4739,6 +4734,7 @@ staging-preview.redbullsimracing.com
 staging-preview.redbullxalps.com
 staging.bestad.redbullusa.com
 staging.bestads.redbull.com
+staging.esim.redbullmobile.com
 staging.flavorcatch.redbull.com
 staging.flavorcatchsummer.redbull.com
 staging.musicfestivaltraining.redbullusa.com
@@ -5672,7 +5668,6 @@ www.redbullartofmotion.com
 www.redbullaudiolibrary.com
 www.redbullaudioplayer.com
 www.redbullbasement.com
-www.redbullbasementworldfinalhub.com
 www.redbullbatalladelosgallos.com
 www.redbullbc1.com
 www.redbullbcone.com
