@@ -1,2 +1,5 @@
-assessment-platform-q.redbull.com
-assessment-platform.redbull.com
+assets.rbleipzig.com
+peak-q.redbull.com
+rem-leap.redbull.com
+poc-agenticdeployment.redbull.com
+staging.esim.redbullmobile.com
