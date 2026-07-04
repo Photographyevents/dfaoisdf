@@ -1,6 +1,7 @@
 01.sip.redbullmediahouse.com
 02.sip.redbullmediahouse.com
 030fcfaf-089a-492e-b7bd-80df3bb91fd9.redbulltechnology.com
+110124221.service.redbulls.com
 16584526.updates.redbull.com
 2024allhands-d.redbull.com
 2024marketingallhands-d.redbull.com
@@ -18,6 +19,13 @@ _dnsauth.newcastleredbulls.co.uk
 _dnsauth.newcastleredbulls.com
 _dnsauth.rbleipzig.com
 _dnsauth.redbull.racing
+_dnsauth.redbullmobile.ae
+_dnsauth.redbullmobile.com
+_dnsauth.redbullmobile.com.kw
+_dnsauth.redbullmobile.kw
+_dnsauth.redbullmobile.net
+_dnsauth.redbullmobile.om
+_dnsauth.redbullmobile.us
 _dnsauth.redbullnewyork.com
 _dnsauth.redbullshop.com
 _dnsauth.redbullshopus.com
@@ -233,6 +241,7 @@ api.competitorcalculator.redbull.com
 api.contacts.redbullmediapitch.com
 api.developers.redbull.com
 api.editor-design.redbullcontentpool.com
+api.flashzone.rbleipzig.com
 api.flyingbulls.at
 api.flyingbulls.com
 api.gps-d.redbull.com
@@ -1440,6 +1449,7 @@ em5277.invoice.redbullmediahouse.com
 em5763.redbullsalzburg.at
 em5823.wingsforlifeworldrun.com
 em5825.classes.rbomiya.com
+em6621.service.redbulls.com
 em6713.redbullpos.com
 em7133.app.redbullmobile.com
 em7595.app.newcastleredbulls.com
@@ -1595,6 +1605,7 @@ events-test.redbull.it
 events.redbull.com
 events.redbull.it
 events.wingsforlife.com
+eventstats-stage.redbull.com
 eventstats.redbull.com
 evewa3.wingsforlife.com
 experience-design.redbull.com
@@ -1720,6 +1731,7 @@ firealarm.redbull.com
 fitness.redbull.pl
 fitness.redbull.sg
 fitness.redbullusa.com
+flashzone.rbleipzig.com
 flavorcatch.redbull.com
 flavorcatchsummer.redbull.com
 flavouryouruniversity.redbull.com
@@ -5098,6 +5110,7 @@ urbanaque.redbull.com.br
 url3229.analytics.rbleipzig.com
 url3229.dev.analytics.rbleipzig.com
 url5278.wingsforlifeworldrun.com
+url5581.service.redbulls.com
 url72.ch.redbulletin.com
 us-vpn01.redbull.com
 us.redbull.jobs
