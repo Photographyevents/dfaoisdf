@@ -1,1 +1,1 @@
-staging.esim.redbullmobile.com
+api.flashzone.rbleipzig.com
