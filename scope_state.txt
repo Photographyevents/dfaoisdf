@@ -2294,8 +2294,6 @@ leaderboard-admin-qa.redbull.com
 leaderboard-admin-staging.redbull.com
 leaderboard-admin.redbull.com
 leaderboard-q.redbull.com
-leaderboard-qa.redbull.com
-leaderboard-staging.redbull.com
 leaderboard.redbull.com
 ledzep.redbull.com
 legacy.redbullaudioplayer.com
@@ -3319,6 +3317,7 @@ pm-bounces.media.rbleipzig.com
 pm-bounces.redbullsailingacademy.com
 pm-bounces.zerochallenge.redbull.com
 pm.redbull.com
+pm.staging.esim.redbullmobile.com
 pma.redbull.com
 poapsa-q.redbull.com
 poc-agenticdeployment.redbull.com
