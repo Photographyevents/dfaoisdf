@@ -1,5 +1,1 @@
-flashzone.rbleipzig.com
-eventstats-stage.redbull.com
-api.flashzone.rbleipzig.com
-url5581.service.redbulls.com
-110124221.service.redbulls.com
+pm.staging.esim.redbullmobile.com
