@@ -1,1 +1,3 @@
-pm.staging.esim.redbullmobile.com
+hangar.redbull.com
+hangar-d.redbull.com
+hangar-q.redbull.com
