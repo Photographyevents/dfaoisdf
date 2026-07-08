@@ -1913,6 +1913,9 @@ guestwlan.redbull.com
 h2guraya4c7v.wingsforlifeworldrun.com
 handshake-d.redbull.com
 handshake.redbull.com
+hangar-d.redbull.com
+hangar-q.redbull.com
+hangar.redbull.com
 harmonization-q.redbull.com
 harmonization.redbull.com
 hazelcast-test-aro-d.redbull.com
