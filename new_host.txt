@@ -1,3 +1,1 @@
-hangar.redbull.com
-hangar-d.redbull.com
-hangar-q.redbull.com
+gmg-colorproof.redbull.com
