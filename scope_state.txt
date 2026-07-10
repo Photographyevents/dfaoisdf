@@ -1473,6 +1473,8 @@ email.redbullrecordsshop.com
 email.redbulltechnology.com
 email.ve.redbull.com
 emailmkt.redbullshop.com.br
+embed-qa.redbull.tv
+embed.redbull.tv
 embed.redbullaudioplayer.com
 embeds-staging.redbull.com
 embeds.redbull.com
@@ -2267,6 +2269,7 @@ kjuh-q.redbull.com
 klampfervpn.redbulltechnology.com
 klubportal.redbullsalzburg.at
 kmkiy7kysmzpq6cc53mpjvjjcyxiezfi.redbullderniermot.com
+kms-q.infra.redbull.com
 konfigurator.redbullmobile.at
 kontakt.redbull.at
 kpi-search-aro-d.redbull.com
@@ -4057,6 +4060,7 @@ redbullsampling.com
 redbullscreeningroom.com
 redbullsdofuturo.redbullshop.com.br
 redbullsfan.tv
+redbullshop.com
 redbullshopus.com
 redbullsimplycola.com
 redbullsimracing.com
