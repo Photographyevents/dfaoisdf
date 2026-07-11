@@ -1430,6 +1430,7 @@ em1.redbullbcone.com
 em1.redbullfestival.com
 em1.redbullxfighters.com
 em1.wingsforlifeworldrun.com
+em108.redbullhotelpartners.com
 em1510.adves.redbull.com
 em1557.career.redbull.com
 em1723.redbulletin.de
@@ -3975,6 +3976,7 @@ redbullgraduate.com
 redbullgraduateprogram.com
 redbullgraduateprogramme.com
 redbullhalfcourt.com
+redbullhotelpartners.com
 redbullibizaroyale.com
 redbullimprov.com
 redbullinfo.redbull.lt
