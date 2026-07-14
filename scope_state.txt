@@ -3314,6 +3314,7 @@ poc-agenticdeployment.redbull.com
 poc-cannylabs.redbull.com
 poc-dashboard.redbull.com
 poc-garage-monitoring.redbull.com
+poc-hanamonitoring.redbull.com
 poc-minutemanager.redbull.com
 poc-researchdatabase-api.redbull.com
 poc-researchdatabase.redbull.com
@@ -4887,7 +4888,6 @@ sunup.redbullusa.com
 support.redbullperformance.com
 surfcamp.redbull.nl
 sweetspotland-prod.redbull.com
-sync.redbull.co.za
 sync.redbullshop.com
 syndication.redbull.com
 synergyportal-api.redbulltechnology.com
