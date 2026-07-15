@@ -1,1 +1,5 @@
-poc-hanamonitoring.redbull.com
+context-hub.redbull.com
+context-hub-staging.redbull.com
+creatornet-aro-d.redbull.com
+prod.esim.redbullmobile.com
+pm.prod.esim.redbullmobile.com
