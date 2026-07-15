@@ -945,6 +945,8 @@ contest-admin.redbull.com
 contest-analytics.redbull.com
 contest-api.redbull.com
 contest.konkurslotowredbull.pl
+context-hub-staging.redbull.com
+context-hub.redbull.com
 continuethezeroexcuseschallenge.redbull.com
 continuethezeromissedworkoutschallenge.redbull.com
 contractcreator-q.redbull.com
@@ -1035,6 +1037,7 @@ creativearchive-preprod.redbull.com
 creativearchive-test.redbull.com
 creativestore.redbull.com
 creativitycontest.redbull.pt
+creatornet-aro-d.redbull.com
 creatornet-d.redbull.com
 creatornet-q.redbull.com
 creatornet.redbull.com
@@ -3306,6 +3309,7 @@ pm-bounces.events.redbullsailingacademy.com
 pm-bounces.media.rbleipzig.com
 pm-bounces.redbullsailingacademy.com
 pm-bounces.zerochallenge.redbull.com
+pm.prod.esim.redbullmobile.com
 pm.redbull.com
 pm.staging.esim.redbullmobile.com
 pma.redbull.com
@@ -3449,6 +3453,7 @@ prod-redportptmp.redbull.com
 prod-redportptrp.redbull.com
 prod.bullscorner.at
 prod.ecrbs.redbulls.com
+prod.esim.redbullmobile.com
 prod.flyingbulls.at
 prod.flyingbulls.com
 prod.ninja.redbull.com
