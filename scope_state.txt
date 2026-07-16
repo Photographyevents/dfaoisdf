@@ -1016,7 +1016,6 @@ cpdb-d.redbull.com
 cpdb-q.redbull.com
 cpdb.redbull.com
 cpfiles-d.redbull.com
-cpfiles.redbull.com
 cpfilesweb-eu.redbull.com
 cpfilesweb-sea.redbull.com
 cpfilesweb-us.redbull.com
@@ -3019,6 +3018,7 @@ origin-dms.redbull.com
 origin-drive-q.redbull.com
 origin-drive.redbull.com
 origin-givesyouwings.redbull.com
+origin-iam-ui-q.redbull.com
 origin-image.redbull.com
 origin-inception.redbullmediahouse.com
 origin-infonet-relaunch.redbull.com
