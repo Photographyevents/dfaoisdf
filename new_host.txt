@@ -1,1 +1,1 @@
-origin-iam-ui-q.redbull.com
+origin-iam-ui.redbull.com
