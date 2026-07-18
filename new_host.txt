@@ -1,1 +1,3 @@
-origin-iam-ui.redbull.com
+rbdc-uniforms.redbull.com
+rbdc-uniforms-d.redbull.com
+rbdc-uniforms-q.redbull.com
