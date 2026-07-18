@@ -1821,6 +1821,7 @@ ftp.wingsforstudents.be
 ftp01-akamai.redbullmediahouse.com
 ftp02.redbullmediahouse.com
 fullsend.redbullracing.com
+fussballschule-q.rbleipzig.com
 fussballschule.dierotenbullen.com
 fussballschule.rbleipzig.com
 future.redbullmusicacademy.com
@@ -3671,6 +3672,9 @@ rbbas.hq-d.redbull.com
 rbcptest.redbull.com
 rbdc-d.redbull.com
 rbdc-q.redbull.com
+rbdc-uniforms-d.redbull.com
+rbdc-uniforms-q.redbull.com
+rbdc-uniforms.redbull.com
 rbdc.redbull.com
 rbdcimagestore-d.redbull.com
 rbdcimagestore-q.redbull.com
