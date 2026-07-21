@@ -1159,6 +1159,7 @@ dauerkarten.rbleipzig.com
 db1.redbullperformance.com
 db1.redbullstratos.com
 db2.redbullstratos.com
+dbt.rbleipzig.com
 dccheck-vie-q.redbull.com
 dccheck-vie.redbull.com
 dcp-data-provisioning-inventory-q.redbull.com
@@ -1452,11 +1453,11 @@ em5277.invoice.redbullmediahouse.com
 em5763.redbullsalzburg.at
 em5823.wingsforlifeworldrun.com
 em5825.classes.rbomiya.com
+em5956.app.newcastleredbulls.com
 em6621.service.redbulls.com
 em6713.redbullpos.com
 em7133.app.redbullmobile.com
 em7595.app.newcastleredbulls.com
-em7781.app.redbull.com
 em7935.form.rbleipzig.com
 em8452.fanmail.rbomiya.com
 em8531.redbulletin.at
@@ -2682,6 +2683,7 @@ mkex02.redbulltechnology.com
 mkex03.redbulltechnology.com
 mkex04.redbulltechnology.com
 mkt-appdocs.redbull.com
+mkt-calendar-aro-d.redbull.com
 mkt-calendar-d.redbull.com
 mkt-calendar-q.redbull.com
 mkt-calendar.redbull.com
@@ -2938,6 +2940,7 @@ oneman.redbullstudios.com
 online.flyingbulls.at
 online.redbull.com
 onpnewsletter.redbull.com
+onpremisemarketingnet-aro-d.redbull.com
 onpremisemarketingnet-d.redbull.com
 onpremisemarketingnet-q.redbull.com
 onpremisemarketingnet.redbull.com
