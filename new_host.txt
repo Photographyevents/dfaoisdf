@@ -1,3 +1,2 @@
-rbdc-uniforms.redbull.com
-rbdc-uniforms-d.redbull.com
-rbdc-uniforms-q.redbull.com
+onpremisemarketingnet-aro-d.redbull.com
+mkt-calendar-aro-d.redbull.com
