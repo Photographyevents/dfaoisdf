@@ -945,8 +945,8 @@ contest-admin.redbull.com
 contest-analytics.redbull.com
 contest-api.redbull.com
 contest.konkurslotowredbull.pl
-context-hub-staging.redbull.com
-context-hub.redbull.com
+contexthub-staging.redbull.com
+contexthub.redbull.com
 continuethezeroexcuseschallenge.redbull.com
 continuethezeromissedworkoutschallenge.redbull.com
 contractcreator-q.redbull.com
@@ -2275,6 +2275,8 @@ klampfervpn.redbulltechnology.com
 klubportal.redbullsalzburg.at
 kmkiy7kysmzpq6cc53mpjvjjcyxiezfi.redbullderniermot.com
 kms-q.infra.redbull.com
+knowledge-dev.redbullperformance.com
+knowledgehub-dev.redbullperformance.com
 konfigurator.redbullmobile.at
 kontakt.redbull.at
 kpi-search-aro-d.redbull.com
@@ -2372,6 +2374,7 @@ load.sst.redbullring.com
 localsourcing-q.redbull.com
 localsourcing.redbull.com
 login-d.redbull.com
+login-design.redbullbragantino.com
 login-design.redbullmediapitch.com
 login-dev.rbleipzig.com
 login-dev.redbullbragantino.com
@@ -2393,6 +2396,7 @@ login.redbull.com
 login.redbull.sk
 login.redbullbatalladelosgallos.es
 login.redbullbcone.com
+login.redbullbragantino.com
 login.redbulletin.com
 login.redbullfb.com
 login.redbullmediahouse.com
