@@ -1,2 +1,5 @@
-onpremisemarketingnet-aro-d.redbull.com
-mkt-calendar-aro-d.redbull.com
+knowledgehub-dev.redbullperformance.com
+login.redbullbragantino.com
+contexthub.redbull.com
+contexthub-staging.redbull.com
+login-design.redbullbragantino.com
