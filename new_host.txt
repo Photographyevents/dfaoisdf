@@ -1,5 +1,5 @@
-knowledgehub-dev.redbullperformance.com
-login.redbullbragantino.com
-contexthub.redbull.com
-contexthub-staging.redbull.com
-login-design.redbullbragantino.com
+preview.rbleipzig.com
+dev.flash-upload.rbleipzig.com
+preview-s.rbleipzig.com
+preview-d.rbleipzig.com
+dev.api.flash-upload.rbleipzig.com
