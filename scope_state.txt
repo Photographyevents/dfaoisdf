@@ -1234,6 +1234,7 @@ dev-login.redbullmediahouse.com
 dev.analytics.rbleipzig.com
 dev.api.analytics.rbleipzig.com
 dev.api.b2b-approval-portal.rbleipzig.com
+dev.api.flash-upload.rbleipzig.com
 dev.api.flashzone.rbleipzig.com
 dev.api.ofc.rbleipzig.com
 dev.api.playershare.rbleipzig.com
@@ -1241,6 +1242,7 @@ dev.api.tourshare.rbleipzig.com
 dev.awayportal.rbleipzig.com
 dev.b2b-approval-portal.rbleipzig.com
 dev.ecrbs.redbulls.com
+dev.flash-upload.rbleipzig.com
 dev.flashzone.rbleipzig.com
 dev.n8n.rbleipzig.com
 dev.ofc.rbleipzig.com
@@ -2276,7 +2278,6 @@ klubportal.redbullsalzburg.at
 kmkiy7kysmzpq6cc53mpjvjjcyxiezfi.redbullderniermot.com
 kms-q.infra.redbull.com
 knowledge-dev.redbullperformance.com
-knowledgehub-dev.redbullperformance.com
 konfigurator.redbullmobile.at
 kontakt.redbull.at
 kpi-search-aro-d.redbull.com
@@ -3414,13 +3415,16 @@ preprod-account.redbullmediahouse.com
 preprod.redbullsoundsupply.com
 presspass.redbull.com
 presstagram.redbull.com.tr
+preview-d.rbleipzig.com
 preview-rs.redtech.redbull.com
+preview-s.rbleipzig.com
 preview-tv.redtech.redbull.com
 preview-tvcl.redtech.redbull.com
 preview-tvrs.redtech.redbull.com
 preview.design.redbull.com
 preview.newcastleredbulls.com
 preview.production.redbull.com
+preview.rbleipzig.com
 preview.rbomiya.com
 preview.redbull.com
 preview.redbullborahansgrohe.com
