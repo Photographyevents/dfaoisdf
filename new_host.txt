@@ -1,5 +1,8 @@
-preview.rbleipzig.com
-dev.flash-upload.rbleipzig.com
-preview-s.rbleipzig.com
-preview-d.rbleipzig.com
-dev.api.flash-upload.rbleipzig.com
+api.flash-upload.rbleipzig.com
+flash-upload.rbleipzig.com
+prod.admin.esim.redbullmobile.com
+staging.admin.esim.redbullmobile.com
+prod.api.esim.redbullmobile.com
+staging.api.esim.redbullmobile.com
+prod.images.esim.redbullmobile.com
+staging.images.esim.redbullmobile.com
