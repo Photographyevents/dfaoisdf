@@ -241,6 +241,7 @@ api.competitorcalculator.redbull.com
 api.contacts.redbullmediapitch.com
 api.developers.redbull.com
 api.editor-design.redbullcontentpool.com
+api.flash-upload.rbleipzig.com
 api.flashzone.rbleipzig.com
 api.flyingbulls.at
 api.flyingbulls.com
@@ -1739,6 +1740,7 @@ firealarm.redbull.com
 fitness.redbull.pl
 fitness.redbull.sg
 fitness.redbullusa.com
+flash-upload.rbleipzig.com
 flashzone.rbleipzig.com
 flavorcatch.redbull.com
 flavorcatchsummer.redbull.com
@@ -3464,11 +3466,14 @@ prod-redportpsolp.redbull.com
 prod-redportpsrmp.redbull.com
 prod-redportptmp.redbull.com
 prod-redportptrp.redbull.com
+prod.admin.esim.redbullmobile.com
+prod.api.esim.redbullmobile.com
 prod.bullscorner.at
 prod.ecrbs.redbulls.com
 prod.esim.redbullmobile.com
 prod.flyingbulls.at
 prod.flyingbulls.com
+prod.images.esim.redbullmobile.com
 prod.ninja.redbull.com
 prod.redbullshop.com
 production-delivery.newcastleredbulls.com
@@ -4755,11 +4760,14 @@ staging-preview.redbullpowertrains.com
 staging-preview.redbullracing.com
 staging-preview.redbullsimracing.com
 staging-preview.redbullxalps.com
+staging.admin.esim.redbullmobile.com
+staging.api.esim.redbullmobile.com
 staging.bestad.redbullusa.com
 staging.bestads.redbull.com
 staging.esim.redbullmobile.com
 staging.flavorcatch.redbull.com
 staging.flavorcatchsummer.redbull.com
+staging.images.esim.redbullmobile.com
 staging.musicfestivaltraining.redbullusa.com
 staging.newcastleredbulls.com
 staging.nynl.redbullna.com
