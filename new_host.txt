@@ -1,8 +1,2 @@
-api.flash-upload.rbleipzig.com
-flash-upload.rbleipzig.com
-prod.admin.esim.redbullmobile.com
-staging.admin.esim.redbullmobile.com
-prod.api.esim.redbullmobile.com
-staging.api.esim.redbullmobile.com
-prod.images.esim.redbullmobile.com
-staging.images.esim.redbullmobile.com
+qm.redbull.mobile
+stage.redbulladvancedtechnologies.com
