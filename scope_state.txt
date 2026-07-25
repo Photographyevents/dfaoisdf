@@ -3573,6 +3573,7 @@ qm.rbomiya.com
 qm.redbull.co
 qm.redbull.com
 qm.redbull.design
+qm.redbull.mobile
 qm.redbull.tv
 qm.redbull.ventures
 qm.redbull400game.com
@@ -4721,6 +4722,7 @@ stage.microsites.redbull.com
 stage.rbgrc.redbull.com
 stage.rboe.shopkick2016.redbull.com
 stage.redbull.nl
+stage.redbulladvancedtechnologies.com
 stage.redbullexperience.com
 stage.redbullexperiences.com
 stage.redbullfestivals.es
