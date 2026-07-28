@@ -1,2 +1,3 @@
-qm.redbull.mobile
-stage.redbulladvancedtechnologies.com
+rem-leap-d.redbull.com
+rem-leap-q.redbull.com
+gravity-profile-image-staging.redbull.design
