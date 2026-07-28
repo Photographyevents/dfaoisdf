@@ -1898,6 +1898,7 @@ graphql-proxy-staging.redbull.com
 graphql-proxy.redbull.com
 gravity-mcp-staging.redbull.design
 gravity-mcp.redbull.design
+gravity-profile-image-staging.redbull.design
 gravity-profile-image.redbull.design
 gravity.redbull.design
 gravitychallenge.redbull.com
@@ -4148,6 +4149,8 @@ redwasp.app.redbull.com
 refer.redbullgraduateprogram.com
 reimbursement-q.redbull.com
 reimbursement.redbull.com
+rem-leap-d.redbull.com
+rem-leap-q.redbull.com
 rem-leap.redbull.com
 rema-d.redbull.com
 rema-psb-q.redbull.com
