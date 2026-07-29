@@ -1,3 +1,1 @@
-rem-leap-d.redbull.com
-rem-leap-q.redbull.com
-gravity-profile-image-staging.redbull.design
+poc-competence-profile.redbull.com
