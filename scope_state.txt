@@ -3329,6 +3329,7 @@ pma.redbull.com
 poapsa-q.redbull.com
 poc-agenticdeployment.redbull.com
 poc-cannylabs.redbull.com
+poc-competence-profile.redbull.com
 poc-dashboard.redbull.com
 poc-garage-monitoring.redbull.com
 poc-hanamonitoring.redbull.com
