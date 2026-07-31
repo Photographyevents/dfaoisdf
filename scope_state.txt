@@ -4297,6 +4297,7 @@ sbmplanner.redbull.co.uk
 sc-ls.redbull.com
 scheduler.redbullairrace.com
 scheduling.redbull.com
+schlichtplan.redbull.com
 schlussmacher.redbull.de
 science.old.wingsforlife.com
 science.wingsforlife.com
