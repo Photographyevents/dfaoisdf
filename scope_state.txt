@@ -1435,7 +1435,6 @@ em1.redbull.sk
 em1.redbullbcone.com
 em1.redbullfestival.com
 em1.redbullxfighters.com
-em1.wingsforlifeworldrun.com
 em108.redbullhotelpartners.com
 em1510.adves.redbull.com
 em1557.career.redbull.com
@@ -1446,15 +1445,13 @@ em2627.friends.redbullmobile.at
 em2779.redbullmobile.om
 em2964.career-sandbox.redbull.com
 em3134.redbull.com
+em3346.ch.redbulletin.com
 em3516.ch.redbulletin.com
 em3654.at.redbullmediahouse.com
 em3723.racingbulls.com
 em4569.noreply.redbull.com
-em4931.wingsforlifeworldrun.com
-em5041.wingsforlifeworldrun.com
 em5277.invoice.redbullmediahouse.com
 em5763.redbullsalzburg.at
-em5823.wingsforlifeworldrun.com
 em5825.classes.rbomiya.com
 em5956.app.newcastleredbulls.com
 em6621.service.redbulls.com
