@@ -3853,7 +3853,6 @@ receipt-q.vandeer-redbull-sports.com
 receipt.vandeer-redbull-sports.com
 rechnung.redbullmobile.at
 recipes.redbull.com
-recompensas.redbullbragantinoexperience.com
 red-bull-mobile-data-at-2022.redbull.com
 red-bull-mobile-zone-at-2022.redbull.com
 red-bull.dk
@@ -5182,6 +5181,7 @@ vestel-qa.redbull.tv
 vestel-staging.redbull.tv
 vestel.redbull.tv
 vetuvanje.redbull.com
+vibe.redbull.com
 vibe.redbulltechnology.com
 vidaa-v2-qa.redbull.tv
 vidaa-v2-staging.redbull.tv
