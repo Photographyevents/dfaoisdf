@@ -2570,7 +2570,6 @@ marathon.jenkins-cjoc-dev.app.redbull.com
 marathon.jenkins-cjoc.app.redbull.com
 mas.wiiings.com
 matchup-node.redbull.com
-materiais.redbullshop.com.br
 mbn-mrss.redbull.com
 mcc.spotguide.redbull.de
 mcp.gps-q.redbull.com
