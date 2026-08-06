@@ -559,6 +559,7 @@ bm-staging.redbull.com
 bm.rbleipzig.com
 bm.redbull.com
 bm.redbullshop.com
+bm.redbullshopus.com
 bnc3.events.redbullmediahouse.com
 bnc3.mailjet.com.redbullmediahouse.com
 bnc3.rbleipzig.com
