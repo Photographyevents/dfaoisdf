@@ -1,1 +1,6 @@
-schlichtplan.redbull.com
+www.redbullsalzburgproduction.at
+www.redbullsalzburgstaging.at
+redbullsalzburgstaging.at
+redbullsalzburgproduction.at
+origin.redbullsalzburgstaging.at
+origin.redbullsalzburgproduction.at
