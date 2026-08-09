@@ -5187,7 +5187,6 @@ vestel-qa.redbull.tv
 vestel-staging.redbull.tv
 vestel.redbull.tv
 vetuvanje.redbull.com
-vibe.redbull.com
 vibe.redbulltechnology.com
 vidaa-v2-qa.redbull.tv
 vidaa-v2-staging.redbull.tv
