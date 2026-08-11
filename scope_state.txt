@@ -949,6 +949,7 @@ contest-admin.redbull.com
 contest-analytics.redbull.com
 contest-api.redbull.com
 contest.konkurslotowredbull.pl
+contexthub-feedback.redbull.com
 contexthub-staging.redbull.com
 contexthub.redbull.com
 continuethezeroexcuseschallenge.redbull.com
@@ -1832,7 +1833,6 @@ fussballschule.rbleipzig.com
 future.redbullmusicacademy.com
 ga-integration.redbull.com
 ga-training.redbull.com
-gallery.redbullracingaustralia.com
 game.tetris-q.redbull.com
 game.tetris.redbull.com
 gamebreakers.redbullna.com
@@ -3213,6 +3213,7 @@ participantgalleryapp-api-staging.redbull.com
 participantgalleryapp-api.redbull.com
 participantgalleryapp-staging.redbull.com
 participantgalleryapp.redbull.com
+participate-staging.redbullbragantino.com
 participate.redbull.com
 participate.redbullbragantino.com
 partner.redbull.com
@@ -3902,6 +3903,7 @@ redbull.kz
 redbull.lt
 redbull.lu
 redbull.lv
+redbull.mobile
 redbull.mx
 redbull.my
 redbull.nl
@@ -5648,6 +5650,7 @@ www.redbull.ly
 www.redbull.md
 www.redbull.mk
 www.redbull.mn
+www.redbull.mobile
 www.redbull.mp
 www.redbull.ms
 www.redbull.mw
