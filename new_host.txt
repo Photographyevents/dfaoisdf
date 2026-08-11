@@ -1,6 +1,4 @@
-www.redbullsalzburgproduction.at
-www.redbullsalzburgstaging.at
-redbullsalzburgstaging.at
-redbullsalzburgproduction.at
-origin.redbullsalzburgstaging.at
-origin.redbullsalzburgproduction.at
+redbull.mobile
+www.redbull.mobile
+contexthub-feedback.redbull.com
+participate-staging.redbullbragantino.com
