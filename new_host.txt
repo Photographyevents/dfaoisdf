@@ -1,4 +1,6 @@
-redbull.mobile
-www.redbull.mobile
-contexthub-feedback.redbull.com
-participate-staging.redbullbragantino.com
+product.redbull.tv
+design.redbull.tv
+creatornet-aro-q.redbull.com
+competence-profile-q.redbull.com
+competence-profile.redbull.com
+competence-profile-d.redbull.com
