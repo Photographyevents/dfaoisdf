@@ -881,6 +881,9 @@ comms-hf-q.redbull.com
 comms-q.redbull.com
 comms.redbull.com
 community.redbullmobile.com
+competence-profile-d.redbull.com
+competence-profile-q.redbull.com
+competence-profile.redbull.com
 competitorcalculator.redbull.com
 complaints-hq-q.redbull.com
 complaints-hq.redbull.com
@@ -1042,6 +1045,7 @@ creativearchive-test.redbull.com
 creativestore.redbull.com
 creativitycontest.redbull.pt
 creatornet-aro-d.redbull.com
+creatornet-aro-q.redbull.com
 creatornet-d.redbull.com
 creatornet-q.redbull.com
 creatornet.redbull.com
@@ -1218,6 +1222,7 @@ design-preview.redbullxalps.com
 design.newcastleredbulls.com
 design.rbomiya.com
 design.redbull.com
+design.redbull.tv
 design.redbull.ventures
 design.redbullborahansgrohe.com
 design.redbullbragantino.com
@@ -3480,6 +3485,7 @@ prod.flyingbulls.com
 prod.images.esim.redbullmobile.com
 prod.ninja.redbull.com
 prod.redbullshop.com
+product.redbull.tv
 production-delivery.newcastleredbulls.com
 production-delivery.rbomiya.com
 production-delivery.redbull.com
