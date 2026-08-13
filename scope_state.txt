@@ -1468,6 +1468,7 @@ em6713.redbullpos.com
 em7133.app.redbullmobile.com
 em7595.app.newcastleredbulls.com
 em7935.form.rbleipzig.com
+em7957.app.getredbulletin.ch
 em8452.fanmail.rbomiya.com
 em8531.redbulletin.at
 em8875.wingsforlife.com
