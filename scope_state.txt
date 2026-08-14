@@ -61,6 +61,7 @@ account.qs.redbullshop.com
 account.rbleipzig.com
 account.redbull.com
 account.redbull.tv
+account.redbullbragantino.com
 account.redbullmediahouse.com
 account.redbullracing.redbull.com
 account.redbullsalzburg.at
@@ -558,6 +559,7 @@ bm-staging.rbleipzig.com
 bm-staging.redbull.com
 bm.rbleipzig.com
 bm.redbull.com
+bm.redbullracing.com
 bm.redbullshop.com
 bm.redbullshopus.com
 bnc3.events.redbullmediahouse.com
@@ -1199,6 +1201,7 @@ des-old.redbull.com
 des-q.redbull.com
 desaiiilespourreviser.redbull.fr
 desaiiilespourtonstage.redbull.com
+design-account.redbullbragantino.com
 design-delivery.newcastleredbulls.com
 design-delivery.rbomiya.com
 design-delivery.redbull.com
@@ -3684,6 +3687,7 @@ rawpack-material.redbull.com
 rayflow.redbull.com
 rb-vod-rtmp.redbull.com
 rb.redbull.ru
+rb2b.rbomiya.com
 rbak-analytics-qa.redbull.com
 rbak-analytics-staging.redbull.com
 rbak-analytics.redbull.com
@@ -4419,6 +4423,7 @@ slotslotracer.redbull.com
 sma-q.redbull.com
 sma.redbull.com
 smart-api.bulls-i.co.in
+smart-component-images.redbull.com
 smart-components-api-staging.redbull.com
 smart-components-api.redbull.com
 smart-intapi.bulls-i.co.in
@@ -5549,6 +5554,7 @@ www.patracking.redbull.com
 www.pl.devel.redbull.com
 www.planogramyredbull.pl
 www.pt.devel.redbull.com
+www.rb2b.rbomiya.com
 www.rbleipzig.com
 www.rbleipzig.de
 www.rbmgr.redbullusa.com
