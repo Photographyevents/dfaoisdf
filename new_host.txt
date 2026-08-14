@@ -1,6 +1,3 @@
-product.redbull.tv
-design.redbull.tv
-creatornet-aro-q.redbull.com
-competence-profile-q.redbull.com
-competence-profile.redbull.com
-competence-profile-d.redbull.com
+account.redbullbragantino.com
+design-account.redbullbragantino.com
+smart-component-images.redbull.com
