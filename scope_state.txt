@@ -1457,7 +1457,7 @@ em2627.friends.redbullmobile.at
 em2779.redbullmobile.om
 em2964.career-sandbox.redbull.com
 em3134.redbull.com
-em3346.ch.redbulletin.com
+em3421.de.redbullmediahouse.com
 em3516.ch.redbulletin.com
 em3654.at.redbullmediahouse.com
 em3723.racingbulls.com
@@ -1466,10 +1466,13 @@ em5277.invoice.redbullmediahouse.com
 em5763.redbullsalzburg.at
 em5825.classes.rbomiya.com
 em5956.app.newcastleredbulls.com
+em6087.de.redbullmediahouse.com
 em6621.service.redbulls.com
 em6713.redbullpos.com
 em7133.app.redbullmobile.com
+em7386.ch.redbulletin.com
 em7595.app.newcastleredbulls.com
+em7820.at.redbullmediahouse.com
 em7935.form.rbleipzig.com
 em7957.app.getredbulletin.ch
 em8452.fanmail.rbomiya.com
