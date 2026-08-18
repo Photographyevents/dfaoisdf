@@ -1,3 +1,4 @@
-account.redbullbragantino.com
-design-account.redbullbragantino.com
-smart-component-images.redbull.com
+data.redbullnewyork.com
+ai-exchange-q.redbull.com
+ai-exchange.redbull.com
+ai-exchange-d.redbull.com
