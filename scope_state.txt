@@ -150,6 +150,9 @@ agreements-tradicional-rh-p.redbull.com
 agreements-tradicional-rh-q.redbull.com
 agreements-tradicional.redbull.com
 agreements.redbull.com
+ai-exchange-d.redbull.com
+ai-exchange-q.redbull.com
+ai-exchange.redbull.com
 ai.redbull.com
 aia-trust-d.cert.redbull.com
 aia-trust-q.cert.redbull.com
@@ -1158,6 +1161,7 @@ daphne-tr.redtech.redbull.com
 data-api-d.bulls-i.co.in
 data-api.bulls-i.co.in
 data.rbleipzig.com
+data.redbullnewyork.com
 datadog.redbullmediahouse.com
 datahub-d.redbull.com
 datahub-q.redbull.com
