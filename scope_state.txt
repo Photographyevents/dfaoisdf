@@ -5220,7 +5220,6 @@ videostatus.redbull.com
 videotext-stv.redbullmediahouse.com
 videoupload.redbull.com
 videri.api.redbull.com
-vie.redbullmediahouse.com
 view.ecrbs.redbulls.com
 view.redbullradio.com
 view.redbulls.com
