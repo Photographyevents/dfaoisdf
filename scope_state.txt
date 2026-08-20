@@ -1507,7 +1507,6 @@ emi.redbull.com
 emp-import-modal-d.redbull.com
 emp-import-modal-q.redbull.com
 emp-import-modal.redbull.com
-employee-services.rbleipzig.com
 empsvcs-fushq-q.redbull.com
 en.redbull.com
 en.redbulletin.com
@@ -4025,6 +4024,7 @@ redbullgifsyouwings.com
 redbullgraduate.com
 redbullgraduateprogram.com
 redbullgraduateprogramme.com
+redbullgreeceguide.com
 redbullhalfcourt.com
 redbullhotelpartners.com
 redbullibizaroyale.com
@@ -4146,6 +4146,7 @@ redbullunforeseenla.redbull.com
 redbullunforeseenquiz.redbull.com
 redbullusa.com
 redbullwiki.com
+redbullwingscup.com
 redbullxalps.com
 redbullxfighters.com
 redcrmp.at.wiiings.com
@@ -5806,6 +5807,7 @@ www.redbullgrad.com
 www.redbullgraduate.com
 www.redbullgraduateprogram.com
 www.redbullgraduateprogramme.com
+www.redbullgreeceguide.com
 www.redbullhalfcourt.com
 www.redbullhangar-7.at
 www.redbullhangar-7.com
