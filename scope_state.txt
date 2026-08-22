@@ -247,6 +247,7 @@ api.developers.redbull.com
 api.editor-design.redbullcontentpool.com
 api.flash-upload.rbleipzig.com
 api.flashzone.rbleipzig.com
+api.floodlight.rbleipzig.com
 api.flyingbulls.at
 api.flyingbulls.com
 api.gps-d.redbull.com
@@ -1764,6 +1765,7 @@ flavouryouruniversity.redbull.com
 flightpath-q.redbull.com
 flightpath.redbull.com
 flirt.redbull.se
+floodlight.rbleipzig.com
 floorplan-d.redbull.com
 floorplan-q.redbull.com
 floorplan.redbull.com
@@ -2588,6 +2590,8 @@ marathon.jenkins-cjoc-dev.app.redbull.com
 marathon.jenkins-cjoc.app.redbull.com
 mas.wiiings.com
 matchup-node.redbull.com
+maxvs100-staging.redbullracing.com
+maxvs100.redbullracing.com
 mbn-mrss.redbull.com
 mcc.spotguide.redbull.de
 mcp.gps-q.redbull.com
