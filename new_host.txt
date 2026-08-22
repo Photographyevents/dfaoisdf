@@ -1,3 +1,4 @@
-redbullwingscup.com
-redbullgreeceguide.com
-www.redbullgreeceguide.com
+floodlight.rbleipzig.com
+api.floodlight.rbleipzig.com
+maxvs100-staging.redbullracing.com
+maxvs100.redbullracing.com
