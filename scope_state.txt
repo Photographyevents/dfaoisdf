@@ -18,7 +18,9 @@ _4318db04d70c9d785ccd438c9805806c.stage-initiative.app1.redbull.com
 _dnsauth.newcastleredbulls.co.uk
 _dnsauth.newcastleredbulls.com
 _dnsauth.rbleipzig.com
+_dnsauth.redbull.it
 _dnsauth.redbull.racing
+_dnsauth.redbullhalfcourt.com
 _dnsauth.redbullmobile.ae
 _dnsauth.redbullmobile.com
 _dnsauth.redbullmobile.com.kw
@@ -27,6 +29,7 @@ _dnsauth.redbullmobile.net
 _dnsauth.redbullmobile.om
 _dnsauth.redbullmobile.us
 _dnsauth.redbullnewyork.com
+_dnsauth.redbullsailingacademy.com
 _dnsauth.redbullshop.com
 _dnsauth.redbullshopus.com
 _f6a380c95c75be276b03810283e90ea6.redbullpanorama.com
@@ -2151,6 +2154,7 @@ internalauditdb-uux-d.redbull.com
 internalauditdb-uux-q.redbull.com
 internalauditdb.redbull.com
 internationalsports.redbull.com
+intranettest.racingbulls.com
 invitationredbull.ch
 invite.redbull.it
 invoice-test.redbullsalzburg.at
@@ -3111,6 +3115,9 @@ origin-search-q.redbull.com
 origin-search.redbull.com
 origin-services.redbullstratos.com
 origin-sma.redbull.com
+origin-smartedit-dev.redbullshop.com
+origin-smartedit-prod.redbullshop.com
+origin-smartedit-stage.redbullshop.com
 origin-social.redbullstratos.com
 origin-sportsnet-q.redbull.com
 origin-sportsnet-video-q.redbull.com
@@ -4451,6 +4458,9 @@ smartcooler-test.redbull.com
 smartcooler.redbull.com
 smartcooler2.redbull.com
 smartcooler2ec2-q.redbull.com
+smartedit-dev.redbullshop.com
+smartedit-stage.redbullshop.com
+smartedit.redbullshop.com
 smartsheet.redbullmediahouse.com
 smarturl-d.redbull.com
 smarturl-q.redbull.com
