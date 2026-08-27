@@ -15,11 +15,13 @@
 5rpcc4ck3fbqpygs265te3hatw2yoeey.redbullbatalladelosgallos.com
 9to5.redbull.com
 _4318db04d70c9d785ccd438c9805806c.stage-initiative.app1.redbull.com
+_dnsauth.dm.redbull.com
 _dnsauth.newcastleredbulls.co.uk
 _dnsauth.newcastleredbulls.com
 _dnsauth.rbleipzig.com
 _dnsauth.redbull.it
 _dnsauth.redbull.racing
+_dnsauth.redbullbatalla.com
 _dnsauth.redbullhalfcourt.com
 _dnsauth.redbullmobile.ae
 _dnsauth.redbullmobile.com
@@ -32,6 +34,7 @@ _dnsauth.redbullnewyork.com
 _dnsauth.redbullsailingacademy.com
 _dnsauth.redbullshop.com
 _dnsauth.redbullshopus.com
+_dnsauth.wingsforlifeworldrun.com
 _f6a380c95c75be276b03810283e90ea6.redbullpanorama.com
 aadlung-des-cert-test.redbull.com
 aadlung-des-cert-test.redbull.tv
@@ -53,7 +56,6 @@ access.racing.redbull.com
 accessibility.redbull.com
 account-admin.redbull.com
 account-dev.rbleipzig.com
-account-dev.redbullbragantino.com
 account-ecrbs-q.redbulls.com
 account-ecrbs.redbulls.com
 account-login.redbull.com
@@ -156,6 +158,7 @@ agreements.redbull.com
 ai-exchange-d.redbull.com
 ai-exchange-q.redbull.com
 ai-exchange.redbull.com
+ai-support-q.redbull.com
 ai.redbull.com
 aia-trust-d.cert.redbull.com
 aia-trust-q.cert.redbull.com
@@ -329,7 +332,6 @@ art.redbullracing.com
 artifactory.app.redbull.com
 artifactory.redbullmediahouse.com
 artifacts-proxy-d.devel.redbull.com
-artifacts.devel.redbull.com
 artifacts.hq-d.redbull.com
 artifacts.hq.redbull.com
 artistmetrics-d.redbull.com
@@ -1962,6 +1964,7 @@ helllo.wingsforlife.com
 hello-aro-s.redbull.com
 helmut.redbull.com
 help-q.redbulldistributioncompany.com
+help.redbull.tv
 help.redbulldistributioncompany.com
 helpcenter.redbull.com
 hermes.redbull.com
