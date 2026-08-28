@@ -1,2 +1,4 @@
-help.redbull.tv
-ai-support-q.redbull.com
+cdp.redbullbragantino.com
+cdp-api.redbullbragantino.com
+cdp.newcastleredbulls.com
+cdp-api.newcastleredbulls.com
