@@ -2080,6 +2080,7 @@ img.redbull.com
 img.redbull.com.tr
 img.redbullbragantino.com
 imgs.redbull.racing
+impm.redbull.com
 ims.wingsforlifeworldrun.com
 inbomarvr01rb.redbull.com
 inception-headless-staging.redbull.com
