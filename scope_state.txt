@@ -79,7 +79,6 @@ accountsdev.redbullracing.com
 accountsstage.redbull.com
 accountsstage.redbullracing.com
 accreditation.redbullring.com
-accreditation.redbullsalzburg.at
 acis-api-d.redbull.com
 acis-api-q.redbull.com
 acis-api.redbull.com
@@ -727,7 +726,6 @@ carroslocos.redbull.com
 cartoons.redbull.com
 cashless-q.rbleipzig.com
 cashless.rbleipzig.com
-casper.redbull.com
 cast.redbullaudioplayer.com
 catchyourseat.redbull.com
 caytoatvr01rb.redbull.com
@@ -1978,6 +1976,8 @@ highflyers.redbull.co.uk
 highlights-t.redbullsoccer.com
 highlights.redbullsoccer.com
 highlights2012.redbull.co.uk
+hireassign-q.redbull.com
+hireassign.redbull.com
 hiring.redbullu.com
 history-qa.redbull.com
 history-staging.redbull.com
@@ -1990,6 +1990,7 @@ hml-ingressos.redbullbragantino.com.br
 holding.microsites.redbull.com
 homejersey.rbleipzig.com
 horst-api-mockup.redbull.com
+hospitality.newcastleredbulls.com
 hospitality.redbull.com
 hospitality.redbull.racing
 host.stage.flavorcatch.redbull.com
@@ -3005,6 +3006,9 @@ opkb-iam-q.redbull.com
 opkb-iam-service-q.redbull.com
 opkb-iam-service.redbull.com
 opkb-iam.redbull.com
+opleader-d.redbull.com
+opleader-q.redbull.com
+opleader.redbull.com
 optout.redtech.redbull.com
 orbis-stage.ecredbulls.at
 orbis.ecredbulls.at
@@ -4286,7 +4290,6 @@ rsconnect.redbull.com
 rstudio.redbull.com
 rsvp.events.redbull.com
 ru-vpn01.redbull.com
-rubyportal.redbullmobile.om
 rufinance-q.redbull.com
 rufinance.redbull.com
 ruizsm7jzjyq.www.dierotenbullen.com
@@ -5658,7 +5661,6 @@ www.redbull.fi
 www.redbull.fm
 www.redbull.fr
 www.redbull.gd
-www.redbull.gen.tr
 www.redbull.gg
 www.redbull.gl
 www.redbull.gp
@@ -5951,6 +5953,7 @@ www.redbulltrackclubpakistan.com
 www.redbullturkey.com
 www.redbullu.com
 www.redbullusa.com
+www.redbullwingscup.com
 www.redbullwioslempoodrze.pl
 www.redbullxalps.com
 www.redbullxfighters.com
