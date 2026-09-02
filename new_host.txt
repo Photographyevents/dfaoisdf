@@ -1,5 +1,2 @@
-hospitality.newcastleredbulls.com
-www.redbullwingscup.com
-opleader.redbull.com
-opleader-q.redbull.com
-opleader-d.redbull.com
+runway.redbull.com
+runway-q.redbull.com
