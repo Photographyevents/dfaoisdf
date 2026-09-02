@@ -1024,6 +1024,7 @@ cosmos.redbull.design
 coverage.redbull.com
 coveragedb-backoffice.redbull.com
 coveragedb-helpcenter.redbull.com
+coveragedb-impm.redbull.com
 coveragedb-mmas.redbull.com
 coveragedb-uploadcenter.redbull.com
 coveragedb.redbull.com
@@ -4295,6 +4296,8 @@ rufinance.redbull.com
 ruizsm7jzjyq.www.dierotenbullen.com
 runotes-q.redbull.com
 runotes.redbull.com
+runway-q.redbull.com
+runway.redbull.com
 s-cooler-q.redbull.com
 s-cooler.redbull.com
 s-m.wiiings.com
