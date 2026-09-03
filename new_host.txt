@@ -1,2 +1,1 @@
-runway.redbull.com
-runway-q.redbull.com
+runway-d.redbull.com
