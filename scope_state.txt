@@ -243,6 +243,7 @@ api.partners-q.redbull.com
 api.partners.redbull.com
 api.planograms.redbull.com
 api.playershare.rbleipzig.com
+api.presseportal.rbleipzig.com
 api.redbull.com
 api.redbull.tv
 api.redbullaudiolibrary.com
@@ -1240,6 +1241,7 @@ dev.api.flash-upload.rbleipzig.com
 dev.api.flashzone.rbleipzig.com
 dev.api.ofc.rbleipzig.com
 dev.api.playershare.rbleipzig.com
+dev.api.presseportal.rbleipzig.com
 dev.api.tourshare.rbleipzig.com
 dev.awayportal.rbleipzig.com
 dev.b2b-approval-portal.rbleipzig.com
@@ -1249,6 +1251,7 @@ dev.flashzone.rbleipzig.com
 dev.n8n.rbleipzig.com
 dev.ofc.rbleipzig.com
 dev.playershare.rbleipzig.com
+dev.presseportal.rbleipzig.com
 dev.redbullaudiolibrary.com
 dev.redbulldistributioncompany.com
 dev.redbullrecords.com
@@ -2242,6 +2245,7 @@ klampfervpn.redbulltechnology.com
 klubportal.redbullsalzburg.at
 kms-q.infra.redbull.com
 knowledge-dev.redbullperformance.com
+knowledge.redbullperformance.com
 konfigurator.redbullmobile.at
 kontakt.redbull.at
 kpi-search-aro-d.redbull.com
@@ -3383,6 +3387,7 @@ preorder-vip.rbleipzig.com
 prepress-publishing.redbullmediahouse.com
 preprod-account.redbullmediahouse.com
 preprod.redbullsoundsupply.com
+presseportal.rbleipzig.com
 presspass.redbull.com
 presstagram.redbull.com.tr
 preview-d.rbleipzig.com
@@ -3543,7 +3548,6 @@ qm.redbull.co
 qm.redbull.com
 qm.redbull.design
 qm.redbull.mobile
-qm.redbull.tv
 qm.redbull.ventures
 qm.redbull400game.com
 qm.redbulladvancedtechnologies.com
@@ -4036,7 +4040,6 @@ redbullraplika.com
 redbullrecords.biz
 redbullrecords.co.uk
 redbullrecords.com
-redbullrecords.eu
 redbullrecords.info
 redbullrecords.mobi
 redbullrecords.net
@@ -4070,9 +4073,11 @@ redbullskiptofit.com
 redbullskydiveteam.com
 redbullsmashgods.com
 redbullsoapbox.com
+redbullsoapbox.com.tr
 redbullsoapbox.mx
 redbullsoapbox.redbull.com
 redbullsoapboxrace.com
+redbullsoapboxrace.com.tr
 redbullsoapboxrace.kz
 redbullsoapboxrace.mx
 redbullsoundclashinvitation.redbull.com.gr
@@ -4503,6 +4508,7 @@ sparkle.redbull.com
 speakup.redbull.com
 specialeditions.redbull.es
 speedquiz.redbull.hu
+spider-test.redbullperformance.com
 spinnaker-api-staging.redbullmediahouse.com
 spinnaker-api.redbullmediahouse.com
 spinnaker-staging.redbullmediahouse.com
@@ -5824,7 +5830,6 @@ www.redbullraplika.com
 www.redbullrecords.biz
 www.redbullrecords.co.uk
 www.redbullrecords.com
-www.redbullrecords.eu
 www.redbullrecords.info
 www.redbullrecords.mobi
 www.redbullrecords.net
@@ -5859,8 +5864,10 @@ www.redbullsimracing.com
 www.redbullskiptofit.com
 www.redbullskydiveteam.com
 www.redbullsoapbox.com
+www.redbullsoapbox.com.tr
 www.redbullsoapbox.mx
 www.redbullsoapboxrace.com
+www.redbullsoapboxrace.com.tr
 www.redbullsoapboxusa.com
 www.redbullsoundclash.pl
 www.redbullspinitloud.com
