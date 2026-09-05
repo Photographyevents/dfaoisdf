@@ -400,6 +400,7 @@ atwork.redbull.es
 atwork.redbullusa.com
 au-vpn01.redbull.com
 auckland.redbullstudios.com
+audio.rbleipzig.com
 audio.redbullcontentpool.com
 audio.redbullmediahouse.com
 audioeur.redbullaudiolibrary.com
