@@ -1,9 +1,1 @@
-presseportal.rbleipzig.com
-knowledge.redbullperformance.com
-dev.presseportal.rbleipzig.com
-www.redbullsoapboxrace.com.tr
-redbullsoapboxrace.com.tr
-redbullsoapbox.com.tr
-api.presseportal.rbleipzig.com
-www.redbullsoapbox.com.tr
-dev.api.presseportal.rbleipzig.com
+audio.rbleipzig.com
