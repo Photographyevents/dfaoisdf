@@ -1,1 +1,2 @@
-audio.rbleipzig.com
+dev.api.announcer.rbleipzig.com
+dev.announcer.rbleipzig.com

@@ -1,0 +1,2 @@
+dev.api.announcer.rbleipzig.com
+dev.announcer.rbleipzig.com
