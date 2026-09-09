@@ -1971,7 +1971,6 @@ ielect.us.wiiings.com
 ielect.wiiings.com
 images.redbull.tv
 images.redbullcollection.com
-images.redbullshop.com
 images.teams.redbull.racing
 imanager.us.wiiings.com
 imanagerp.us.wiiings.com
