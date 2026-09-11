@@ -62,8 +62,6 @@ acis-api.redbull.com
 acis-infra-d.redbull.com
 acis-infra-q.redbull.com
 acis-infra.redbull.com
-acis-lpr-elb-q.redbull.com
-acis-lpr-elb.redbull.com
 acme-ssl-test.redbull.com
 acpredbulldrivers.pt
 actions-service-qa.redbull.com
@@ -71,7 +69,6 @@ actions-service-staging.redbull.com
 actions-service.redbull.com
 activations.redbull.com
 addons-alwayson-partyandsocializing-2022.redbull.com
-addons-bracketeditorandtournamenttrees.redbull.com
 addons-dakarrally2022showpagetheming.redbull.com
 addons-dearriderinteractive.redbull.com
 addons-game-of-air.redbull.com
@@ -1180,7 +1177,6 @@ delivers-q.redbull.com
 delivers.redbull.com
 delivery-dev.redbull.com
 delivery-stage.redbull.com
-delivery.design.redbull.com
 delivery.production.redbull.com
 delivery.staging.redbull.com
 deltagerbilleder.redbull.dk
@@ -3368,7 +3364,6 @@ preview-s.rbleipzig.com
 preview-tv.redtech.redbull.com
 preview-tvcl.redtech.redbull.com
 preview-tvrs.redtech.redbull.com
-preview.design.redbull.com
 preview.newcastleredbulls.com
 preview.production.redbull.com
 preview.rbleipzig.com
