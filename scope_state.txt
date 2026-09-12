@@ -132,6 +132,7 @@ ai-exchange-d.redbull.com
 ai-exchange-q.redbull.com
 ai-exchange.redbull.com
 ai-support-q.redbull.com
+ai.architecture.redbull.com
 ai.redbull.com
 aia-trust-d.cert.redbull.com
 aia-trust-q.cert.redbull.com
@@ -737,6 +738,7 @@ cdp.redbullshopus.com
 cdp.vandeer-redbull-sports.com
 cds-activities.redbull.com
 cds-activities.staging.redbull.com
+cds-content-scout.redbull.com
 cei-headless-d.redbull.com
 cei-headless-s.redbull.com
 ceiton-api-staging.redbullmediahouse.com
@@ -2154,7 +2156,6 @@ jmpdev.app.redbull.com
 jobboard.redbull.com
 jobs-design.redbull.com
 jobs-staging.redbull.com
-jobs-static.redbull.com
 jobs.redbull.com
 jobstatus-viewer.redbull.com
 jotform-cafeco-api.redbull.com
@@ -2485,6 +2486,8 @@ mailarchiv.eur.redbull.com
 mailarchive.eur.redbull.com
 mailergrc.racingbulls.com
 mailermqk.redbullshopus.com
+mailerq93.mail.redbullb2b.com
+mailery71.mail.redbullb2b.com
 mailprotection.redbull.com
 maisdoquenunca.redbullshop.com.br
 makesummercount.redbull.com
@@ -4155,11 +4158,13 @@ risinghighvoting.redbull.com
 rm-preview-staging.redbull.com
 rm-preview.redbull.com
 rm-staging.redbull.com
+rm.rbleipzig.com
 rm.redbull.com
 rm.redbull.tv
 rm.redbullgmoinfo.com
 rm.redbullmediahouse.com
 rm.redbullshop.com
+rm.redbullshopus.com
 rma-instant-dispatcher-staging.redbull.com
 rma-instant-dispatcher.redbull.com
 rma-preview-staging.redbull.com
@@ -4929,6 +4934,7 @@ testing.redbullstratos.com
 testlogin.dierotenbullen.com
 testredirect.redbullsalzburg.at
 tfeportal.redbulltechnology.com
+tfeportal2.redbulltechnology.com
 tgp.redbull.com
 thailand.redbull.com
 the-paddock.redbullracing.com
@@ -5652,6 +5658,7 @@ www.redbullarena.us
 www.redbullartofmotion.com
 www.redbullaudiolibrary.com
 www.redbullaudioplayer.com
+www.redbullb2b.com
 www.redbullbasement.com
 www.redbullbatalladelosgallos.com
 www.redbullbc1.com
