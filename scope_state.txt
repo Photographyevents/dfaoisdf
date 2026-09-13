@@ -178,6 +178,7 @@ analytics-q-tc.redbull.com
 analytics-q.redbull.com
 analytics-tc.redbull.com
 analytics-webide-dap.redbull.com
+analytics.rbleipzig.ai
 analytics.rbleipzig.com
 analytics.redbull.com
 analyzer-ui.redtech.redbull.com
