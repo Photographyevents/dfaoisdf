@@ -1173,6 +1173,8 @@ ddrive.redbull.com
 de.redbulletin.com
 de.redbullsampling.com
 deductlink-d.redbull.com
+deductlink-q.redbull.com
+deductlink.redbull.com
 deepnote.redbull.com
 delej-vpn01.redbull.com
 delejnavr01rb.redbull.com
@@ -1241,6 +1243,9 @@ developer.redbullna.com
 developers.redbull.com
 devinhester.redbullna.com
 devinhesterstaging.redbullna.com
+dg-dashboard-d.redbull.com
+dg-dashboard-q.redbull.com
+dg-dashboard.redbull.com
 dg-dev.redbull.com
 di-redportdbwd-headless.app.redbull.com
 di-redportdceis.redbull.com
@@ -2156,6 +2161,7 @@ jmc.redbull.com
 jmpdev.app.redbull.com
 jobboard.redbull.com
 jobs-design.redbull.com
+jobs-redesign.redbull.com
 jobs-staging.redbull.com
 jobs.redbull.com
 jobstatus-viewer.redbull.com
@@ -4012,7 +4018,6 @@ redbullrecords.biz
 redbullrecords.co.uk
 redbullrecords.com
 redbullrecords.info
-redbullrecords.mobi
 redbullrecords.net
 redbullrecords.org
 redbullrecords.tv
@@ -5805,7 +5810,6 @@ www.redbullrecords.biz
 www.redbullrecords.co.uk
 www.redbullrecords.com
 www.redbullrecords.info
-www.redbullrecords.mobi
 www.redbullrecords.net
 www.redbullrecords.org
 www.redbullrecords.tv
