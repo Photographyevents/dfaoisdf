@@ -1,3 +1,6 @@
-www.redbullb2b.com
-rm.rbleipzig.com
-rm.redbullshopus.com
+dg-dashboard-d.redbull.com
+dg-dashboard.redbull.com
+deductlink-q.redbull.com
+deductlink.redbull.com
+dg-dashboard-q.redbull.com
+jobs-redesign.redbull.com
