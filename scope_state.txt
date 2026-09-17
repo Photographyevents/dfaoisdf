@@ -929,7 +929,6 @@ content-schema-builder.redbull.com
 content.devel.redbull.com
 content.redbull.com
 content.redbulls.com
-content.redbullstratos.com
 content.redbullusa.com
 content.wingsforlifeworldrun.com
 contenthub-blue.redbull.com
@@ -1159,8 +1158,6 @@ datalayer.redbull.com
 dataprep-dap.redbull.com
 dauerkarten.rbleipzig.com
 db1.redbullperformance.com
-db1.redbullstratos.com
-db2.redbullstratos.com
 dbt.rbleipzig.com
 dccheck-vie-q.redbull.com
 dccheck-vie.redbull.com
@@ -1233,7 +1230,6 @@ dev.redbullaudiolibrary.com
 dev.redbulldistributioncompany.com
 dev.redbullrecords.com
 dev.redbullshop.com
-dev.redbullstratos.com
 dev.tourshare.rbleipzig.com
 dev.wiiings.com
 devel.redbull.com
@@ -1643,6 +1639,9 @@ festivalmgmt-q.redbull.com
 festivalmgmt.redbull.com
 festivals-d.redbull.com
 ffm.redbullrecords.com
+fielddistribution-d.redbull.com
+fielddistribution-q.redbull.com
+fielddistribution.redbull.com
 fieldsupport-q.redbull.com
 fieldsupport.redbull.com
 file-download-api-d.redbull.com
@@ -1760,7 +1759,6 @@ ftp.redbullpos.com
 ftp.redbullradioservice.com
 ftp.redbullrecordsshop.com
 ftp.redbullskydiveteam.com
-ftp.redbullstratos.com
 ftp.redbullturkey.com
 ftp.theredbulletin.com
 ftp.wingsforlifestore.com
@@ -2304,7 +2302,6 @@ live-staging.wingsforlifeworldrun.com
 live.redbull.tv
 live.redbullbcone.com
 live.redbulldolomitenmann.com
-live.redbullstratos.com
 live.wingsforlifeworldrun.com
 liveops-design.redbull.com
 liveops-staging.redbull.com
@@ -2407,7 +2404,6 @@ m.redbull.jp
 m.redbullamaphiko.co.za
 m.redbullflugtag.co.za
 m.redbullracingaustralia.com
-m.redbullstratos.com
 m.stage.redbull.jp
 m.wiiings.com
 m2-d.eu.redbull.com
@@ -2545,7 +2541,6 @@ media.vandeer-redbull-sports.com
 mediabank.redbullf1.com
 mediabrandplanet.redbull.com
 mediadata.redbull.com
-mediakit.redbullstratos.com
 medialib.redbull.com
 medialib.redbullmediahouse.com
 mediamanager-cp.redbull.com
@@ -2674,7 +2669,6 @@ mobile.redbull.com
 mobile.redbull.jp
 mobile.redbulletin.com
 mobile.redbulls.com
-mobile.redbullstratos.com
 mobile.redbullxfighters.com
 mobileauth-q.redbull.com
 mobileauth.redbull.com
@@ -2718,7 +2712,6 @@ msoid.redbullsalzburg.at
 msonline-d.redbull.com
 msonline-q.redbull.com
 msonline.redbull.com
-mssql.redbullstratos.com
 mta-2.cpmailing.redbull.com
 mta-2.data.rbleipzig.com
 mta-2.info.bullscorner.at
@@ -3032,12 +3025,10 @@ origin-saplaunchpad-q.redbull.com
 origin-saplaunchpad.redbull.com
 origin-search-q.redbull.com
 origin-search.redbull.com
-origin-services.redbullstratos.com
 origin-sma.redbull.com
 origin-smartedit-dev.redbullshop.com
 origin-smartedit-prod.redbullshop.com
 origin-smartedit-stage.redbullshop.com
-origin-social.redbullstratos.com
 origin-sportsnet-q.redbull.com
 origin-sportsnet-video-q.redbull.com
 origin-sportsnet-video.redbull.com
@@ -3064,8 +3055,6 @@ origin-static.redbullshop.com.br
 origin-static3.redbullshop.com.br
 origin-tas.redbull.com
 origin-testdevstage.redbull.com
-origin-testing.redbullstratos.com
-origin-testing.services.redbullstratos.com
 origin-wings.redbull.co.uk
 origin-workbench-q.redbull.com
 origin-workbench.redbull.com
@@ -3790,7 +3779,6 @@ rda-headless.devel.redbull.com
 rda-q.redbull.com
 rda.devel.redbull.com
 rda.redbull.com
-rdio.redbullstratos.com
 rds-test.redbull.ru
 rds.redbull.ru
 readthestore-admin-q.redbull.com
@@ -3905,6 +3893,7 @@ redbullcarparkdrift.com
 redbullcircleofbalance.com
 redbullcliffdiving.com
 redbullcliffdiving.gr
+redbullcliffdivingvoting.redbull.com
 redbullcola-memory.redbull.com
 redbullcola.dk
 redbullcola.fi
@@ -4753,12 +4742,9 @@ staging.redbullpicup.com
 staging.redbullpowertrains.com
 staging.redbullracing.com
 staging.redbullsimracing.com
-staging.redbullstratos.com
 staging.redbullu.com
 staging.redbullxalps.com
-staging.site.redbullstratos.com
 staging.vandeer-redbull-sports.com
-staging2.redbullstratos.com
 star-cert.app.redbull.com
 star-cert.apps.baopenshift-d-euw.infra.redbull.com
 star-cert.apps.baopenshift-p-euw.infra.redbull.com
@@ -4936,7 +4922,6 @@ test.bullidikidz.com
 test.ms.redbull.com
 test.redbullaudioplayer.com
 testdirectus.redbull.com
-testing.redbullstratos.com
 testlogin.dierotenbullen.com
 testredirect.redbullsalzburg.at
 tfeportal.redbulltechnology.com
@@ -5169,12 +5154,6 @@ visit.redbull.com
 vleugels.redbull.nl
 vm-staging.redbullmediahouse.com
 vm.redbullmediahouse.com
-vm1.redbullstratos.com
-vm2.redbullstratos.com
-vm3.redbullstratos.com
-vm4.redbullstratos.com
-vm5.redbullstratos.com
-vm6.redbullstratos.com
 vod.stream.redbulletin.com
 von0auf100.redbull.de
 vote.redbullbcone.com
@@ -5942,7 +5921,6 @@ xgamesfoto.redbull.de
 xivado.redbull.com
 xvnrglyg2wsj.chrome.redbull.com
 yellowflyers.redbullmusicacademy.com
-youtube.redbullstratos.com
 zacptbrvr01rb.redbull.com
 zdkadmin-q.redbull.com
 zdkadmin.redbull.com
