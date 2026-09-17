@@ -1,6 +1,4 @@
-dg-dashboard-d.redbull.com
-dg-dashboard.redbull.com
-deductlink-q.redbull.com
-deductlink.redbull.com
-dg-dashboard-q.redbull.com
-jobs-redesign.redbull.com
+fielddistribution-q.redbull.com
+fielddistribution-d.redbull.com
+fielddistribution.redbull.com
+redbullcliffdivingvoting.redbull.com
