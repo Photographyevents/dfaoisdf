@@ -501,6 +501,7 @@ batchtracking-old.redbull.com
 batchtracking-q.redbull.com
 batchtracking-s.redbull.com
 batchtracking.redbull.com
+bb17e404285bb743447b1e8fde6b9696.redbullpanorama.com
 bcone.redbull.com
 bcone.redbull.com.tr
 beatboat-hub.redbull.at
@@ -1709,6 +1710,9 @@ fokus.redbull.si
 fonts-api-dev.redbull.com
 fonts-api.redbull.com
 fonts.redbullmediahouse.com
+fontsupdate-d.redbull.com
+fontsupdate-q.redbull.com
+fontsupdate.redbull.com
 forage.redbull.ru
 forage.redbull.ua
 forecast-staging.redbull.com
@@ -2259,6 +2263,8 @@ legacy.redbullaudioplayer.com
 legacyprism.redbull.com
 legalarchive-q.redbull.com
 legalarchive.redbull.com
+lens-q.redbull.com
+lens.redbull.com
 lesliecopeland.redbull.com
 leteckyden.redbull.com
 levilavalleeultimate.redbull.com
@@ -5207,6 +5213,8 @@ webnode-d.redbull.com
 webnode-q.redbull.com
 webnode.redbull.com
 webradio.redbull.com
+webscraper-q.redbull.com
+webscraper.redbull.com
 webtool-test.redbull.it
 webtool.redbull.it
 webvotingshow.redbullflugtag.de
