@@ -1,4 +1,7 @@
-fielddistribution-q.redbull.com
-fielddistribution-d.redbull.com
-fielddistribution.redbull.com
-redbullcliffdivingvoting.redbull.com
+fontsupdate.redbull.com
+fontsupdate-d.redbull.com
+fontsupdate-q.redbull.com
+webscraper.redbull.com
+lens-q.redbull.com
+lens.redbull.com
+webscraper-q.redbull.com
