@@ -1,7 +1,2 @@
-fontsupdate.redbull.com
-fontsupdate-d.redbull.com
-fontsupdate-q.redbull.com
-webscraper.redbull.com
-lens-q.redbull.com
-lens.redbull.com
-webscraper-q.redbull.com
+dev.api.mixedzone.rbleipzig.com
+dev.mixedzone.rbleipzig.com
