@@ -185,6 +185,7 @@ analyzer-ui.redtech.redbull.com
 analyzer.redtech.redbull.com
 anatexit-tr.redtech.redbull.com
 angus.redbull.com
+anonymous.tool.wingsforlife.com
 anothervoice.redbullrecords.com
 aonvpn.redbullsalzburg.at
 aovpn.redbulltechnology.com
@@ -260,7 +261,6 @@ apinew.redbullmobile.om
 apo-test.redbullcontentpool.com
 app.esim.redbullmobile.com
 app.redbull.com
-app.redbullbasement.com
 app.review.wingsforlifeworldrun.com
 app.rideliketony.redbull.it
 app.teams.redbull.racing
@@ -562,6 +562,7 @@ bob3.redbullshop.com.br
 bookmarks-qa.redbull.com
 bookmarks-staging.redbull.com
 bookmarks.redbull.com
+bounce.tool.wingsforlife.com
 bounce.us.wingsforlife.com
 bounces.email.reclbull.com
 bouncing.redbullsalzburg.at
@@ -1610,6 +1611,7 @@ fb.redbullaudioplayer.com
 fb.redbullbpm.com
 fb.redbullmobile.com
 fbck.redbullmobile.com
+fbl.tool.wingsforlife.com
 fc-vpn.redbull.com
 fc-vpn.redbullsalzburg.at
 fc.redbullsalzburg.at
@@ -2260,6 +2262,7 @@ leaderboard-admin-staging.redbull.com
 leaderboard-admin.redbull.com
 leaderboard-q.redbull.com
 leaderboard.redbull.com
+leave.tool.wingsforlife.com
 ledzep.redbull.com
 legacy.redbullaudioplayer.com
 legacyprism.redbull.com
@@ -2563,6 +2566,8 @@ mediasuite.redbullmediahouse.com
 mediaworld.redbull.com
 medical.redbullperformance.com
 meetings-d.redbull.com
+meinrbs.redbullsalzburg.at
+meinrbsstaging.redbullsalzburg.at
 members.redbull.jp
 members.stage.redbull.jp
 memory.redbull.at
@@ -4129,6 +4134,7 @@ rep-d.redbull.com
 rep-q.redbull.com
 rep-s.redbull.com
 rep.redbull.com
+reply.tool.wingsforlife.com
 repo.app.redbull.com
 repository.redbull.com
 request-q.redbull.com
