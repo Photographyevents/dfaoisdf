@@ -1,2 +1,2 @@
-dev.api.mixedzone.rbleipzig.com
-dev.mixedzone.rbleipzig.com
+dev.axess.rbleipzig.com
+dev.api.axess.rbleipzig.com

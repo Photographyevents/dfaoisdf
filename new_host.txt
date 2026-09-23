@@ -1,2 +1,3 @@
-dev.api.mixedzone.rbleipzig.com
-dev.mixedzone.rbleipzig.com
+dev.axess.rbleipzig.com
+roles.redbull.design
+dev.api.axess.rbleipzig.com
