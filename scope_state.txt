@@ -13,6 +13,7 @@
 58380926.redbullbragantino.com
 9to5.redbull.com
 _4318db04d70c9d785ccd438c9805806c.stage-initiative.app1.redbull.com
+_bb17e404285bb743447b1e8fde6b9696.redbullpanorama.com
 _f6a380c95c75be276b03810283e90ea6.redbullpanorama.com
 aadlung-des-cert-test.redbull.com
 aadlung-des-cert-test.redbull.tv
@@ -501,7 +502,6 @@ batchtracking-old.redbull.com
 batchtracking-q.redbull.com
 batchtracking-s.redbull.com
 batchtracking.redbull.com
-bb17e404285bb743447b1e8fde6b9696.redbullpanorama.com
 bcone.redbull.com
 bcone.redbull.com.tr
 beatboat-hub.redbull.at
@@ -1212,6 +1212,7 @@ dev.analytics.rbleipzig.com
 dev.announcer.rbleipzig.com
 dev.api.analytics.rbleipzig.com
 dev.api.announcer.rbleipzig.com
+dev.api.axess.rbleipzig.com
 dev.api.b2b-approval-portal.rbleipzig.com
 dev.api.flash-upload.rbleipzig.com
 dev.api.flashzone.rbleipzig.com
@@ -1221,6 +1222,7 @@ dev.api.playershare.rbleipzig.com
 dev.api.presseportal.rbleipzig.com
 dev.api.tourshare.rbleipzig.com
 dev.awayportal.rbleipzig.com
+dev.axess.rbleipzig.com
 dev.b2b-approval-portal.rbleipzig.com
 dev.ecrbs.redbulls.com
 dev.flash-upload.rbleipzig.com
@@ -4182,6 +4184,7 @@ rma-staging.redbull.com
 rma.redbull.com
 ro.redbull.com
 roadie.redbull.com.au
+roles.redbull.design
 rollout.redbull.com
 roofbandits.redbull.ch
 rookiescup.redbull.com
@@ -4718,7 +4721,6 @@ staging-delivery.redbullsimracing.com
 staging-delivery.redbullxalps.com
 staging-editions.redbull.com.tr
 staging-eventgames.redbull.com
-staging-new.redbullsalzburg.at
 staging-preview.newcastleredbulls.com
 staging-preview.rbomiya.com
 staging-preview.redbull.com
@@ -5340,7 +5342,6 @@ www-new-juniorteam.redbull.com
 www-new-rookiescup.redbull.com
 www-new.redbulljuniorteam.com
 www-new.redbullrookiescup.com
-www-new.redbullsalzburg.at
 www-new.redbullxalps.com
 www-old.redbullrookiescup.com
 www-preprod.redbull.tv
