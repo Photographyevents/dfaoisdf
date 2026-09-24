@@ -1,2 +1,0 @@
-dev.axess.rbleipzig.com
-dev.api.axess.rbleipzig.com
