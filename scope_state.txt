@@ -215,6 +215,7 @@ api.analytics.rbleipzig.com
 api.atlas-design.redbull.com
 api.atlas-staging.redbull.com
 api.atlas.redbull.com
+api.axess.rbleipzig.com
 api.b2b-approval-portal.rbleipzig.com
 api.bullscorner.at
 api.cityinsider.redbull.com
@@ -450,6 +451,7 @@ automate.devel.redbull.com
 avp.redbullmediahouse.com
 awayportal.rbleipzig.com
 awolnation.redbullna.com
+axess.rbleipzig.com
 b2b-approval-portal.rbleipzig.com
 b2b-d.redbullshop.com
 b2b-q.redbull.com
@@ -3503,6 +3505,7 @@ qa-account-login.redbull.com
 qa-account.redbull.com
 qa-account.redbull.tv
 qa-account.redbullmediahouse.com
+qa-metrics.redbull.com
 qa-partner.redbullmediahouse.com
 qdrive-integration.redbull.com
 qdrive.redbull.com
@@ -3688,6 +3691,7 @@ rbiphoneapp-q.redbull.com
 rbiphoneapp.us.redbull.com
 rbitsam.redbull.com
 rbl.redbulls.com
+rbleipzig.ai
 rbleipzig.com
 rbleipzig.de
 rblyouth.rbleipzig.com
@@ -5094,8 +5098,6 @@ upload.redbull.co.za
 uploads.review.wingsforlifeworldrun.com
 uploads.wingsforlifeworldrun.com
 urbanaque.redbull.com.br
-url3229.analytics.rbleipzig.com
-url3229.dev.analytics.rbleipzig.com
 url5278.wingsforlifeworldrun.com
 url72.ch.redbulletin.com
 us-vpn01.redbull.com
@@ -5494,6 +5496,7 @@ www.pl.devel.redbull.com
 www.planogramyredbull.pl
 www.pt.devel.redbull.com
 www.rb2b.rbomiya.com
+www.rbleipzig.ai
 www.rbleipzig.com
 www.rbleipzig.de
 www.rbmgr.redbullusa.com
