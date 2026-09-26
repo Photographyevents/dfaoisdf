@@ -2820,6 +2820,8 @@ next.redbullbragantino.com
 next.redbullmusicacademy.com
 next.redbullracing.com
 next.redbullsimracing.com
+nextbestaction-q.redbull.com
+nextbestaction.redbull.com
 nighthunt.redbull.com
 nightmaster.redbull.com
 nimbus-chat-d.redbull.com
