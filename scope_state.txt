@@ -256,6 +256,7 @@ api.secretcan.redbull.com
 api.tetris-q.redbull.com
 api.tetris.redbull.com
 api.tourshare.rbleipzig.com
+api.vip-seating.rbleipzig.com
 api.wingforms.redbull.com
 apibeta.redbullaudiolibrary.com
 apidev.redbullmobile.om
@@ -467,6 +468,7 @@ b2b.wingsforlifeworldrun.com
 backend-eventgames.redbull.com
 backend-q.otng.redbull.com
 backend-test.redbullsalzburg.at
+backend.herd-appshare-staging.redbull.com
 backend.otng.redbull.com
 backend.redbullsalzburg.at
 backoffice-dev.redbullshop.com
@@ -1223,6 +1225,7 @@ dev.api.ofc.rbleipzig.com
 dev.api.playershare.rbleipzig.com
 dev.api.presseportal.rbleipzig.com
 dev.api.tourshare.rbleipzig.com
+dev.api.vip-seating.rbleipzig.com
 dev.awayportal.rbleipzig.com
 dev.axess.rbleipzig.com
 dev.b2b-approval-portal.rbleipzig.com
@@ -1239,6 +1242,7 @@ dev.redbulldistributioncompany.com
 dev.redbullrecords.com
 dev.redbullshop.com
 dev.tourshare.rbleipzig.com
+dev.vip-seating.rbleipzig.com
 dev.wiiings.com
 devel.redbull.com
 developer.redbull.com
@@ -1695,6 +1699,7 @@ flashzone.rbleipzig.com
 flavorcatch.redbull.com
 flavorcatchsummer.redbull.com
 flavouryouruniversity.redbull.com
+flightdeck-d.redbull.com
 flightpath-q.redbull.com
 flightpath.redbull.com
 flirt.redbull.se
@@ -1703,7 +1708,6 @@ floorplan-d.redbull.com
 floorplan-q.redbull.com
 floorplan.redbull.com
 fluegelfuerdich.redbull.com
-flugplan.redbull.com
 flugtag-forum.redbull.com.br
 flugtag-integration.redbull.com
 flugtag-staging.redbull.com
@@ -2416,8 +2420,6 @@ m.am.redbull.com
 m.ap.redbull.com
 m.eu.redbull.com
 m.redbull.jp
-m.redbullamaphiko.co.za
-m.redbullflugtag.co.za
 m.redbullracingaustralia.com
 m.stage.redbull.jp
 m.wiiings.com
@@ -2553,6 +2555,8 @@ media.stage-mywings.redbull.com
 media.staging-mywings.redbull.com
 media.theredbulletin.com
 media.vandeer-redbull-sports.com
+mediaagencyevaluation-q.redbull.com
+mediaagencyevaluation.redbull.com
 mediabank.redbullf1.com
 mediabrandplanet.redbull.com
 mediadata.redbull.com
@@ -4826,6 +4830,8 @@ storecheck.redbull.com
 storelocator.redbull.nl
 storeuniversetoolkit-q.redbull.com
 storeuniversetoolkit.redbull.com
+storevisualizer-stg.redbull.com
+storevisualizer.redbull.com
 stories.rbleipzig.com
 storybook.rbleipzig.com
 storyclash.redbull.com
@@ -5167,6 +5173,7 @@ view.redbullradio.com
 view.redbulls.com
 view.redbullsoundsupply.com
 vinfinder.redbull.com
+vip-seating.rbleipzig.com
 visit-complaints-q.redbull.com
 visit-complaints.redbull.com
 visit-d.redbull.com
@@ -5666,6 +5673,7 @@ www.redbullarena.us
 www.redbullartofmotion.com
 www.redbullaudiolibrary.com
 www.redbullaudioplayer.com
+www.redbullb2b.com
 www.redbullbasement.com
 www.redbullbatalladelosgallos.com
 www.redbullbc1.com
