@@ -1,5 +1,10 @@
-axess.rbleipzig.com
-www.rbleipzig.ai
-qa-metrics.redbull.com
-rbleipzig.ai
-api.axess.rbleipzig.com
+storevisualizer.redbull.com
+vip-seating.rbleipzig.com
+flightdeck-d.redbull.com
+www.redbullb2b.com
+mediaagencyevaluation.redbull.com
+dev.vip-seating.rbleipzig.com
+backend.herd-appshare-staging.redbull.com
+mediaagencyevaluation-q.redbull.com
+dev.api.vip-seating.rbleipzig.com
+api.vip-seating.rbleipzig.com
