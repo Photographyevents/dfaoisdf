@@ -469,6 +469,7 @@ backend-eventgames.redbull.com
 backend-q.otng.redbull.com
 backend-test.redbullsalzburg.at
 backend.herd-appshare-staging.redbull.com
+backend.herd-appshare.redbull.com
 backend.otng.redbull.com
 backend.redbullsalzburg.at
 backoffice-dev.redbullshop.com
@@ -595,6 +596,7 @@ brand.rbleipzig.com
 brandbuilding-staging.redbull.com
 brandlab.redbullf1.com
 brandnet-d.redbull.com
+brandnet-hf-q.redbull.com
 brandnet-q.redbull.com
 brandnet.redbull.com
 brandprojects-support.redbull.com
@@ -690,9 +692,6 @@ cankas3.redbull.com
 cankas4.redbull.com
 cankas5.redbull.com
 cankas6.redbull.com
-canny-d.redbull.com
-canny-q.redbull.com
-canny.redbull.com
 cansareout.redbullmea.com
 cansareoutar.redbullmea.com
 canva.redbull.com
@@ -1700,6 +1699,8 @@ flavorcatch.redbull.com
 flavorcatchsummer.redbull.com
 flavouryouruniversity.redbull.com
 flightdeck-d.redbull.com
+flightdeck-q.redbull.com
+flightdeck.redbull.com
 flightpath-q.redbull.com
 flightpath.redbull.com
 flirt.redbull.se
@@ -2284,6 +2285,8 @@ levilavalleeultimate.redbull.com
 lg-qa.redbull.tv
 lg-staging.redbull.tv
 lg.redbull.tv
+lgauto-qa.redbull.tv
+lgauto.redbull.tv
 lib.redbull.design
 liberty-usersync-d.redbull.com
 liberty-usersync-q.redbull.com
@@ -2967,9 +2970,6 @@ origin-brandnet-q.redbull.com
 origin-brandnet.redbull.com
 origin-bullstore-q.redbull.com
 origin-bullstore.redbull.com
-origin-canny-d.redbull.com
-origin-canny-q.redbull.com
-origin-canny.redbull.com
 origin-cdn.microsites.redbull.com
 origin-cloud-prod-redportpmdgp.redbull.com
 origin-cloud-stage-redportqmdgq.redbull.com
@@ -3722,6 +3722,7 @@ rbnapossupport-q.redbull.com
 rbnapossupport.redbull.com
 rbnapromo-q.redbull.com
 rbnapromo.redbull.com
+rbny-legacy.redbull.com
 rboe.shopkick2016.redbull.com
 rbomiya.com
 rbomiya.jp
@@ -5145,6 +5146,7 @@ vasa-uat.redbull.com
 vasa.redbull.com
 vcs.at.redbull.com
 vcsx.us.redbull.com
+vendasinternas.redbullbragantino.com
 vending-test.redbull.it
 vending.redbull.it
 vendorportal.redbull.com
