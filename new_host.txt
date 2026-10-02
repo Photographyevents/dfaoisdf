@@ -1,8 +1,7 @@
-lgauto.redbull.tv
-rbny-legacy.redbull.com
-lgauto-qa.redbull.tv
-flightdeck-q.redbull.com
-flightdeck.redbull.com
-vendasinternas.redbullbragantino.com
-brandnet-hf-q.redbull.com
-backend.herd-appshare.redbull.com
+czqgr.redbullnewyork.com
+api.audience-heatmap.rbleipzig.com
+audience-heatmap.rbleipzig.com
+dev.audience-heatmap.rbleipzig.com
+goods-api.redbull.com
+new-goods.redbull.com
+dev.api.audience-heatmap.rbleipzig.com

@@ -1,0 +1,4 @@
+api.audience-heatmap.rbleipzig.com
+dev.audience-heatmap.rbleipzig.com
+goods-api.redbull.com
+dev.api.audience-heatmap.rbleipzig.com
