@@ -2714,7 +2714,6 @@ mobilemail.redbullgraduate.com
 mobilemail.redbullgraduateprogram.com
 mobilemail.redbullpos.com
 mobilemail.redbullrecordsshop.com
-moments.redbull.com
 monhub.redbull.com
 monitoring.redbull.com
 monitoring.web01.microsites.redbull.com
