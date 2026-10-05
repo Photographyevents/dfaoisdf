@@ -1,7 +1,2 @@
-czqgr.redbullnewyork.com
-api.audience-heatmap.rbleipzig.com
-audience-heatmap.rbleipzig.com
-dev.audience-heatmap.rbleipzig.com
-goods-api.redbull.com
-new-goods.redbull.com
-dev.api.audience-heatmap.rbleipzig.com
+api.mixedzone.rbleipzig.com
+mixedzone.rbleipzig.com
