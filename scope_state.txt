@@ -240,6 +240,7 @@ api.gps-q.redbull.com
 api.gps.redbull.com
 api.leaderboard-q.redbull.com
 api.leaderboard.redbull.com
+api.mixedzone.rbleipzig.com
 api.officeplan.redbull.com
 api.order.flugplan.redbull.com
 api.partners-q.redbull.com
@@ -2653,6 +2654,7 @@ missionplanner.redbull.com
 missionplanner.redbull.com.redbull.com
 mit-ssl-test.redbullmediahouse.com
 mit0auf100.redbull.de
+mixedzone.rbleipzig.com
 mj116.redbullstudios.com
 mk7.redbulltechnologies.com
 mkex01.redbulltechnology.com
