@@ -1,2 +1,4 @@
-api.mixedzone.rbleipzig.com
-mixedzone.rbleipzig.com
+fanstrom.rbleipzig.com
+engineering.redbull.tv
+riskops-q.redbull.com
+riskops-d.redbull.com
