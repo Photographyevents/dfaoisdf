@@ -1529,6 +1529,7 @@ energyticker.redbullusa.com
 enfocus.redbull.com
 engagement.redbull.com
 engineering.redbull.com
+engineering.redbull.tv
 enroll-q.redbull.com
 enroll.redbull.com
 ensafe.us.redbull.com
@@ -1608,6 +1609,7 @@ fan-api.redbull.com
 fan.redbull.jp
 fanerlebnisse.dierotenbullen.com
 fanexperience.rbleipzig.com
+fanstrom.rbleipzig.com
 fantasybracket.redbull.com
 fantasyfootball.redbull.com
 fantoolpass.rbleipzig.com
@@ -4188,6 +4190,8 @@ rightsmanagement.staging.redbull.com
 rise-contacts-q.redbull.com
 rise-profile-q.redbull.com
 risinghighvoting.redbull.com
+riskops-d.redbull.com
+riskops-q.redbull.com
 rm-preview-staging.redbull.com
 rm-preview.redbull.com
 rm-staging.redbull.com
@@ -5881,7 +5885,6 @@ www.redbullsurf.com
 www.redbulltedaalas.com
 www.redbulltelevision.com
 www.redbulltourbus.com
-www.redbulltourbus.ee
 www.redbulltrackclubpakistan.com
 www.redbullturkey.com
 www.redbullu.com
