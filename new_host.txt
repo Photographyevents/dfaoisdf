@@ -1,4 +1,4 @@
-fanstrom.rbleipzig.com
-engineering.redbull.tv
-riskops-q.redbull.com
-riskops-d.redbull.com
+riskops.redbull.com
+service.rbleipzig.com
+dailypitstop.redbullracing.com
+dailypitstop-staging.redbullracing.com
