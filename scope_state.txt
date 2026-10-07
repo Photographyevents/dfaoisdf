@@ -1145,6 +1145,8 @@ dagster-rbna-it-ro-q.redbull.com
 dagster-rbna-it-ro.redbull.com
 dagster-rbna-it.redbull.com
 daily.redbullmusicacademy.com
+dailypitstop-staging.redbullracing.com
+dailypitstop.redbullracing.com
 dakar2014.redbull.fr
 dam.redbullsalzburg.at
 danceyourwaytola-d.redbull.com
@@ -4192,6 +4194,7 @@ rise-profile-q.redbull.com
 risinghighvoting.redbull.com
 riskops-d.redbull.com
 riskops-q.redbull.com
+riskops.redbull.com
 rm-preview-staging.redbull.com
 rm-preview.redbull.com
 rm-staging.redbull.com
@@ -4322,6 +4325,7 @@ selfservice-q.redbull.com
 selfservice-q.redbull.com.redbull.com
 serveboard.redbull.com
 service-q.vandeer-redbull-sports.com
+service.rbleipzig.com
 service.redbull.com
 service.vandeer-redbull-sports.com
 servicecenter-q.rbleipzig.com
