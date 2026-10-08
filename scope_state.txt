@@ -173,6 +173,7 @@ amplify.redbull.com
 amsterdam.redbullstudios.com
 analytics-dap-tc.redbull.com
 analytics-dap.redbull.com
+analytics-design.redbullcontentpool.com
 analytics-hm-q.redbull.com
 analytics-hm.redbull.com
 analytics-q-tc.redbull.com
@@ -182,6 +183,7 @@ analytics-webide-dap.redbull.com
 analytics.rbleipzig.ai
 analytics.rbleipzig.com
 analytics.redbull.com
+analytics.redbullcontentpool.com
 analyzer-ui.redtech.redbull.com
 analyzer.redtech.redbull.com
 anatexit-tr.redtech.redbull.com
@@ -2353,6 +2355,8 @@ lltest.us.redbull.com
 load.sst.redbullring.com
 localsourcing-q.redbull.com
 localsourcing.redbull.com
+logbook-sso.redbull.com
+logbook.redbull.com
 login-d.redbull.com
 login-design.redbullbragantino.com
 login-design.redbullmediapitch.com
