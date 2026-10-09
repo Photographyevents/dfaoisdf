@@ -1,4 +1,2 @@
-analytics.redbullcontentpool.com
-analytics-design.redbullcontentpool.com
-logbook.redbull.com
-logbook-sso.redbull.com
+covopt-dataprep.redbull.com
+covopt-dataprep-q.redbull.com
