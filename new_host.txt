@@ -1,2 +1,1 @@
-covopt-dataprep.redbull.com
-covopt-dataprep-q.redbull.com
+cosmos-next-runtime.redbull.design
